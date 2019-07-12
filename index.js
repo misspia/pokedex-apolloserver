@@ -1,24 +1,12 @@
-const { ApolloServer, gql } = require('apollo-server-micro')
-
-const typeDefs = gql`
-  type Query {
-    hello: String
-  }
-`
-
-const resolvers = {
-  Query: {
-    hello: (root, args, context) => {
-      return "Hello world! It's your boy, how far now unicodeveloper"
-    }
-  }
-}
+const { ApolloServer } = require('apollo-server');
+const typeDefs = require('./typeDefs/typeDefs');
+const resolvers = require('./resolvers/resolvers');
 
 const server = new ApolloServer({
   typeDefs,
   resolvers,
-  introspection: true,
-  playground: true
-})
+});
 
-module.exports = server.createHandler();
+server.listen().then(({ url }) => {
+  console.log(`🚀 Server ready at ${url}`)
+});
