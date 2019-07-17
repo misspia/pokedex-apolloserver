@@ -4,7 +4,9 @@
   "description": "Apollo GraphQL server for pokedex-webgl",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "dev": "micro-dev",
+    "deploy": "now"
   },
   "repository": {
     "type": "git",
@@ -18,8 +20,12 @@
   "homepage": "https://github.com/misspia/pokedex-apollo#readme",
   "dependencies": {
     "apollo-server": "^2.6.9",
-    "apollo-server-micro": "^2.6.8",
+    "apollo-server-lambda": "^2.6.9",
+    "apollo-server-micro": "^2.6.9",
     "graphql": "^14.4.2",
+    "micro": "^9.3.4",
+    "micro-cors": "^0.1.1",
+    "micro-dev": "^3.0.0",
     "nodemon": "^1.19.1"
   }
 }

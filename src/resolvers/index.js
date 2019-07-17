@@ -4,8 +4,9 @@
 
 const resolvers = {
   Query: {
-    hello: () => 'world'
+    hello: (root, args, context) => 'hiiii',
+    bye: (root, args, context) => 'byeeeee'
   }
-};
+}
 
 module.exports = resolvers;
