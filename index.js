@@ -1,7 +1,4 @@
-const cors = require('micro-cors')({
-  allowMethods: ['OPTIONS', 'POST'],
-  allowHeaders: ['content-type'],
-});
+const cors = require('micro-cors')({});
 const { ApolloServer } = require('apollo-server-micro');
 const typeDefs = require('./src/schema');
 const resolvers = require('./src/resolvers');
@@ -13,4 +10,12 @@ const server = new ApolloServer({
   playground: true
 })
 
-module.exports = cors(server.createHandler());
+const apolloHandler = server.createHandler();
+
+module.exports = cors((req, res) => {
+  if (req.method === 'OPTIONS') {
+    res.end();
+    return;
+  }
+  return apolloHandler(req, res);
+});
