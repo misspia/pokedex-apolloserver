@@ -5,9 +5,15 @@ const { gql } = require('apollo-server');
  */
 
 const typeDefs = gql`
+  type pokemon {
+    id
+    name
+    height
+    weight
+    baseExperience
+  }
   type Query {
-    "A simple type for getting started!"
-    hello: String
+    
   }
 `;
 
