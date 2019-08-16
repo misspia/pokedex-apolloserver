@@ -834,10 +834,8 @@ id,identifier,species_id,height,weight,base_experience,order,is_default
 10026,aegislash-blade,681,17,530,234,787,0
 10027,pumpkaboo-small,710,3,35,67,816,0
 10028,pumpkaboo-large,710,5,75,67,817,0
-10029,pumpkaboo-super,710,8,150,67,818,0
 10030,gourgeist-small,711,7,95,173,820,0
 10031,gourgeist-large,711,11,140,173,821,0
-10032,gourgeist-super,711,17,390,173,822,0
 10033,venusaur-mega,3,24,1555,281,4,0
 10034,charizard-mega-x,6,17,1105,285,8,0
 10035,charizard-mega-y,6,17,1005,285,9,0
