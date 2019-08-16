@@ -1,0 +1,187 @@
+[
+  {
+    "region_id": 1,
+    "local_language_id": 1,
+    "name": "カントー地方"
+  },
+  {
+    "region_id": 1,
+    "local_language_id": 3,
+    "name": "관동지방"
+  },
+  {
+    "region_id": 1,
+    "local_language_id": 5,
+    "name": "Kanto"
+  },
+  {
+    "region_id": 1,
+    "local_language_id": 6,
+    "name": "Kanto"
+  },
+  {
+    "region_id": 1,
+    "local_language_id": 8,
+    "name": "Kanto"
+  },
+  {
+    "region_id": 1,
+    "local_language_id": 9,
+    "name": "Kanto"
+  },
+  {
+    "region_id": 2,
+    "local_language_id": 1,
+    "name": "ジョウト地方"
+  },
+  {
+    "region_id": 2,
+    "local_language_id": 3,
+    "name": "성도지방"
+  },
+  {
+    "region_id": 2,
+    "local_language_id": 5,
+    "name": "Johto"
+  },
+  {
+    "region_id": 2,
+    "local_language_id": 6,
+    "name": "Johto"
+  },
+  {
+    "region_id": 2,
+    "local_language_id": 8,
+    "name": "Johto"
+  },
+  {
+    "region_id": 2,
+    "local_language_id": 9,
+    "name": "Johto"
+  },
+  {
+    "region_id": 3,
+    "local_language_id": 1,
+    "name": "ホウエン地方"
+  },
+  {
+    "region_id": 3,
+    "local_language_id": 3,
+    "name": "호연지방"
+  },
+  {
+    "region_id": 3,
+    "local_language_id": 5,
+    "name": "Hoenn"
+  },
+  {
+    "region_id": 3,
+    "local_language_id": 6,
+    "name": "Hoenn"
+  },
+  {
+    "region_id": 3,
+    "local_language_id": 8,
+    "name": "Hoenn"
+  },
+  {
+    "region_id": 3,
+    "local_language_id": 9,
+    "name": "Hoenn"
+  },
+  {
+    "region_id": 4,
+    "local_language_id": 1,
+    "name": "シンオウ地方"
+  },
+  {
+    "region_id": 4,
+    "local_language_id": 3,
+    "name": "신오지방"
+  },
+  {
+    "region_id": 4,
+    "local_language_id": 5,
+    "name": "Sinnoh"
+  },
+  {
+    "region_id": 4,
+    "local_language_id": 6,
+    "name": "Sinnoh"
+  },
+  {
+    "region_id": 4,
+    "local_language_id": 8,
+    "name": "Sinnoh"
+  },
+  {
+    "region_id": 4,
+    "local_language_id": 9,
+    "name": "Sinnoh"
+  },
+  {
+    "region_id": 5,
+    "local_language_id": 1,
+    "name": "イッシュ地方"
+  },
+  {
+    "region_id": 5,
+    "local_language_id": 3,
+    "name": "하나지방"
+  },
+  {
+    "region_id": 5,
+    "local_language_id": 5,
+    "name": "Unys"
+  },
+  {
+    "region_id": 5,
+    "local_language_id": 6,
+    "name": "Einall"
+  },
+  {
+    "region_id": 5,
+    "local_language_id": 8,
+    "name": "Unima"
+  },
+  {
+    "region_id": 5,
+    "local_language_id": 9,
+    "name": "Unova"
+  },
+  {
+    "region_id": 6,
+    "local_language_id": 1,
+    "name": "カロス地方"
+  },
+  {
+    "region_id": 6,
+    "local_language_id": 3,
+    "name": "칼로스지방"
+  },
+  {
+    "region_id": 6,
+    "local_language_id": 5,
+    "name": "Kalos"
+  },
+  {
+    "region_id": 6,
+    "local_language_id": 6,
+    "name": "Kalos"
+  },
+  {
+    "region_id": 6,
+    "local_language_id": 8,
+    "name": "Kalos"
+  },
+  {
+    "region_id": 6,
+    "local_language_id": 9,
+    "name": "Kalos"
+  },
+  {
+    "region_id": 7,
+    "local_language_id": 9,
+    "name": "Alola"
+  }
+]
