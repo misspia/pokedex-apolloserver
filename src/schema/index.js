@@ -16,7 +16,10 @@ const typeDefs = gql`
     height: Int
     weight: Int
     baseExperience: Int
+    abilities: [String]
   }
+
+ 
 `;
 
 
