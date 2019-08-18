@@ -18,8 +18,13 @@ const typeDefs = gql`
     baseExperience: Int
     abilities: [String]
     types: [String]
+    stats: [PokemonStat]
   }
 
+  type PokemonStat {
+    key: String
+    value: Int
+  }
  
 `;
 
