@@ -1,13 +1,20 @@
 const { gql } = require('apollo-server');
 
-/**
- * The GraphQL schema 
- */
-
 const typeDefs = gql`
-  type Query {
-    "A simple type for getting started!"
-    hello: String
+  type Pokemon {
+    id: Int
+    name: String
+    height: Int
+    weight: Int
+    baseExperience: Int
+    abilities: [String]
+    types: [String]
+    stats: [PokemonStat]
+  }
+
+  type PokemonStat {
+    key: String
+    value: Int
   }
 `;
 
