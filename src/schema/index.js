@@ -17,6 +17,7 @@ const typeDefs = gql`
     weight: Int
     baseExperience: Int
     abilities: [String]
+    types: [String]
   }
 
  
