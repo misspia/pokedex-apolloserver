@@ -22,8 +22,6 @@
     "apollo-server": "^2.6.9",
     "apollo-server-lambda": "^2.6.9",
     "apollo-server-micro": "^2.6.9",
-    "fast-csv": "^3.4.0",
-    "fs": "0.0.1-security",
     "graphql": "^14.4.2",
     "micro": "^9.3.4",
     "micro-cors": "^0.1.1",
