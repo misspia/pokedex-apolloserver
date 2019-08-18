@@ -1,11 +1,15 @@
 const cors = require('micro-cors')({});
-const { ApolloServer } = require('apollo-server-micro');
+const { ApolloServer, makeExecutableSchema } = require('apollo-server-micro');
 const typeDefs = require('./src/schema');
 const resolvers = require('./src/resolvers');
 
-const server = new ApolloServer({
+const schema = makeExecutableSchema({
   typeDefs,
   resolvers,
+});
+
+const server = new ApolloServer({
+  schema,
   introspection: true,
   playground: true
 })

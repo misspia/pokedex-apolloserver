@@ -1,4 +1,4 @@
-const model = require('../models');
+const models = require('../models');
 
 /**
  * A map of functions which return data for the schema
@@ -7,7 +7,7 @@ const model = require('../models');
   Query: {
     hello: (root, args, context) => 'hiiii',
     GetPokemonById: (root, args, context) => {
-      return model.getPokemonById(args.id);
+      return models.pokemon.getPokemonById(args.id);
     }
   }
 }

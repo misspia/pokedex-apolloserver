@@ -1,32 +1,14 @@
 const { gql } = require('apollo-server-micro');
+const PokemonTypeDefs = require('./pokemon.schema.js');
 
-/**
- * The GraphQL schema 
- */
-
-const typeDefs = gql`
+const Query = gql`
   type Query {
     hello: String
     GetPokemonById(id: Int): Pokemon
-  }
-  
-  type Pokemon {
-    id: Int
-    name: String
-    height: Int
-    weight: Int
-    baseExperience: Int
-    abilities: [String]
-    types: [String]
-    stats: [PokemonStat]
-  }
-
-  type PokemonStat {
-    key: String
-    value: Int
-  }
- 
+  } 
 `;
 
-
-module.exports = typeDefs;
+module.exports = [
+  Query,
+  PokemonTypeDefs
+];
