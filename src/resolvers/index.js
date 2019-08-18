@@ -7,7 +7,10 @@ const models = require('../models');
   Query: {
     hello: (root, args, context) => 'hiiii',
     GetPokemonById: (root, args, context) => {
-      return models.pokemon.getPokemonById(args.id);
+      return models.getPokemonById(args.id);
+    },
+    GetEvolutionById: (root, args, context) => {
+      return models.getEvolutionById(args.id);
     }
   }
 }

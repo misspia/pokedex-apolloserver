@@ -1,6 +1,8 @@
 
-const pokemon = require('./pokemon.model.js');
+const getPokemonById = require('./getPokemonById.js');
+const getEvolutionById = require('./getEvolutionById.js');
 
 module.exports = {
-  pokemon: pokemon,
+  getPokemonById,
+  getEvolutionById,
 };
