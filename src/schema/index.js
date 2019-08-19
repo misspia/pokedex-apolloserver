@@ -6,7 +6,7 @@ const Query = gql`
   type Query {
     hello: String
     GetPokemonById(id: Int): Pokemon
-    GetEvolutionById(id: Int): Evolution
+    GetEvolutionByChainId(chainId: Int): Evolution
   } 
 `;
 

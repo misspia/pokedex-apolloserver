@@ -9,8 +9,8 @@ const models = require('../models');
     GetPokemonById: (root, args, context) => {
       return models.getPokemonById(args.id);
     },
-    GetEvolutionById: (root, args, context) => {
-      return models.getEvolutionById(args.id);
+    GetEvolutionByChainId: (root, args, context) => {
+      return models.getEvolutionByChainId(args.chainId);
     }
   }
 }
