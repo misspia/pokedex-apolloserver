@@ -3,10 +3,13 @@ const { gql } = require('apollo-server');
 const typeDefs = gql`
   type Evolution {
     chainId: Int
+    chain: [EvolutionNode]
+  }
+
+  type EvolutionNode {
     id: Int
-    name: String 
-    evolvesTo: [Evolution]
-    nextIds: [String]
+    name: String
+    evolvesFromId: Int
   }
 `;
 
