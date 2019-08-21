@@ -11,7 +11,7 @@ const schema = makeExecutableSchema({
 const server = new ApolloServer({
   schema,
   introspection: true,
-  playground: true
+  playground: true,
 })
 
 const apolloHandler = server.createHandler();
