@@ -71,5 +71,4 @@ function getPokemonStatsById(id) {
   })
 }
 
-
 module.exports = getPokemonById;
