@@ -6,6 +6,7 @@
   "scripts": {
     "start": "nodemon index.js",
     "dev": "micro-dev",
+    "db:cleanup": "node cleanup.js",
     "deploy": "now"
   },
   "repository": {
