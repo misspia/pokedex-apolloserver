@@ -31,3 +31,10 @@ rawDataFilepaths.forEach(filepath => {
 
   });
 });
+
+function formatJSON(rawData) {
+  let formattedData = {};
+  rawData.forEach((node) => {
+    
+  })
+}
