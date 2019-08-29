@@ -4,6 +4,7 @@ const evolutionTriggersData = require('../data/evolutionTriggers.json');
 const itemsData = require('../data/items.json');
 const gendersData = require('../data/genders.json');
 const locationsData = require('../data/locations.json');
+const movesData = require('../data/moves.json');
 
 const getEvolutionByChainId = (chainId) => ({
   chainId,
@@ -20,6 +21,9 @@ function getEvolutionNodes(chainId) {
     ));
     const {
       evolves_from_species_id: evolvesFromId,
+      minimum_happiness: minimumHappiness,
+      minimum_beauty: minimumBeauty,
+      minimum_affection: minimumAffection,
     } = species;
 
     chainNodes.push({
@@ -31,17 +35,13 @@ function getEvolutionNodes(chainId) {
       minimumLevel: species.minimum_level,
       gender: getGender(evolution.gender_id),
       location: getLocation(evolution.location_id),
-      heldItemId: getItem(evolution.held_item_id),
+      heldItem: getItem(evolution.held_item_id),
       timeOfDay: evolution.time_of_day,
-      knownMoveId: species.known_move_id,
-      knownMoveTypeId: species.known_move_type_id,
-      minimumHappiness: species.minimum_happiness,
-      minimumBeauty: species.minimum_beauty,
-      minimumAffection: species.minimum_affection,
+      knownMove: getMove(evolution.known_move_id),
+      minimumHappiness: minimumHappiness === '' ? null : minimumHappiness,
+      minimumBeauty: minimumBeauty === '' ? null : minimumBeauty,
+      minimumAffection: minimumAffection === '' ? null : minimumAffection,
       relativePhysicalStats: species.relative_physical_stats,
-      partySpeciesId: species.party_species_id,
-      partyTypeId: species.party_type_id,
-      tradeSpeciesId: species.trade_species_id,
       needsOverworldRain: species.needs_overworld_rain === 1,
       turnUpsideDown: species.turn_upside_down === 1,
 

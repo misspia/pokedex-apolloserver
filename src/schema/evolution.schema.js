@@ -15,16 +15,13 @@ const typeDefs = gql`
     minimumLevel: Int
     gender: String
     location: String
-    heldItemId: Int
+    heldItem: String
     timeOfDay: String
-    knownMoveId: Int
-    knowMoveTypeId: Int
+    knownMove: String
     mimimumHappiness: Int
     minimumBeauty: Int
     minimumAffection: Int
     relativePhysicalStats: Int
-    partySpeciesId: Int
-    tradeSpeciesId: Int
     needsOverworldRain: Boolean
     turnUpsideDown: Boolean
   }
