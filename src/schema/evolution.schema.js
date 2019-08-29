@@ -10,11 +10,11 @@ const typeDefs = gql`
     id: Int
     name: String
     evolvesFromId: Int
-    evolutionTriggerId: Int
-    triggerItemId: Int
+    evolutionTrigger: String
+    triggerItem: String
     minimumLevel: Int
-    genderId: Int
-    locationId: Int
+    gender: String
+    location: String
     heldItemId: Int
     timeOfDay: String
     knownMoveId: Int
