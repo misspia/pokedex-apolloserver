@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "damage_class_id": "",
+    "damage_class_id": null,
     "identifier": "hp",
     "is_battle_only": 0,
     "game_index": 1
@@ -36,23 +36,23 @@
   },
   {
     "id": 6,
-    "damage_class_id": "",
+    "damage_class_id": null,
     "identifier": "speed",
     "is_battle_only": 0,
     "game_index": 4
   },
   {
     "id": 7,
-    "damage_class_id": "",
+    "damage_class_id": null,
     "identifier": "accuracy",
     "is_battle_only": 1,
-    "game_index": ""
+    "game_index": null
   },
   {
     "id": 8,
-    "damage_class_id": "",
+    "damage_class_id": null,
     "identifier": "evasion",
     "is_battle_only": 1,
-    "game_index": ""
+    "game_index": null
   }
 ]

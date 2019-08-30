@@ -9,7 +9,7 @@
     "pokemon_species_id": 1,
     "local_language_id": 2,
     "name": "Fushigidane",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 1,
@@ -75,7 +75,7 @@
     "pokemon_species_id": 2,
     "local_language_id": 2,
     "name": "Fushigisou",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 2,
@@ -141,7 +141,7 @@
     "pokemon_species_id": 3,
     "local_language_id": 2,
     "name": "Fushigibana",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 3,
@@ -207,7 +207,7 @@
     "pokemon_species_id": 4,
     "local_language_id": 2,
     "name": "Hitokage",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 4,
@@ -273,7 +273,7 @@
     "pokemon_species_id": 5,
     "local_language_id": 2,
     "name": "Lizardo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 5,
@@ -339,7 +339,7 @@
     "pokemon_species_id": 6,
     "local_language_id": 2,
     "name": "Lizardon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 6,
@@ -405,7 +405,7 @@
     "pokemon_species_id": 7,
     "local_language_id": 2,
     "name": "Zenigame",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 7,
@@ -471,7 +471,7 @@
     "pokemon_species_id": 8,
     "local_language_id": 2,
     "name": "Kameil",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 8,
@@ -537,7 +537,7 @@
     "pokemon_species_id": 9,
     "local_language_id": 2,
     "name": "Kamex",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 9,
@@ -603,7 +603,7 @@
     "pokemon_species_id": 10,
     "local_language_id": 2,
     "name": "Caterpie",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 10,
@@ -669,7 +669,7 @@
     "pokemon_species_id": 11,
     "local_language_id": 2,
     "name": "Trancell",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 11,
@@ -735,7 +735,7 @@
     "pokemon_species_id": 12,
     "local_language_id": 2,
     "name": "Butterfree",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 12,
@@ -801,7 +801,7 @@
     "pokemon_species_id": 13,
     "local_language_id": 2,
     "name": "Beedle",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 13,
@@ -867,7 +867,7 @@
     "pokemon_species_id": 14,
     "local_language_id": 2,
     "name": "Cocoon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 14,
@@ -933,7 +933,7 @@
     "pokemon_species_id": 15,
     "local_language_id": 2,
     "name": "Spear",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 15,
@@ -999,7 +999,7 @@
     "pokemon_species_id": 16,
     "local_language_id": 2,
     "name": "Poppo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 16,
@@ -1065,7 +1065,7 @@
     "pokemon_species_id": 17,
     "local_language_id": 2,
     "name": "Pigeon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 17,
@@ -1131,7 +1131,7 @@
     "pokemon_species_id": 18,
     "local_language_id": 2,
     "name": "Pigeot",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 18,
@@ -1197,7 +1197,7 @@
     "pokemon_species_id": 19,
     "local_language_id": 2,
     "name": "Koratta",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 19,
@@ -1263,7 +1263,7 @@
     "pokemon_species_id": 20,
     "local_language_id": 2,
     "name": "Ratta",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 20,
@@ -1329,7 +1329,7 @@
     "pokemon_species_id": 21,
     "local_language_id": 2,
     "name": "Onisuzume",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 21,
@@ -1395,7 +1395,7 @@
     "pokemon_species_id": 22,
     "local_language_id": 2,
     "name": "Onidrill",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 22,
@@ -1461,7 +1461,7 @@
     "pokemon_species_id": 23,
     "local_language_id": 2,
     "name": "Arbo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 23,
@@ -1527,7 +1527,7 @@
     "pokemon_species_id": 24,
     "local_language_id": 2,
     "name": "Arbok",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 24,
@@ -1593,7 +1593,7 @@
     "pokemon_species_id": 25,
     "local_language_id": 2,
     "name": "Pikachu",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 25,
@@ -1659,7 +1659,7 @@
     "pokemon_species_id": 26,
     "local_language_id": 2,
     "name": "Raichu",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 26,
@@ -1725,7 +1725,7 @@
     "pokemon_species_id": 27,
     "local_language_id": 2,
     "name": "Sand",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 27,
@@ -1791,7 +1791,7 @@
     "pokemon_species_id": 28,
     "local_language_id": 2,
     "name": "Sandpan",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 28,
@@ -1857,7 +1857,7 @@
     "pokemon_species_id": 29,
     "local_language_id": 2,
     "name": "Nidoran♀",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 29,
@@ -1923,7 +1923,7 @@
     "pokemon_species_id": 30,
     "local_language_id": 2,
     "name": "Nidorina",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 30,
@@ -1989,7 +1989,7 @@
     "pokemon_species_id": 31,
     "local_language_id": 2,
     "name": "Nidoqueen",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 31,
@@ -2055,7 +2055,7 @@
     "pokemon_species_id": 32,
     "local_language_id": 2,
     "name": "Nidoran♂",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 32,
@@ -2121,7 +2121,7 @@
     "pokemon_species_id": 33,
     "local_language_id": 2,
     "name": "Nidorino",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 33,
@@ -2187,7 +2187,7 @@
     "pokemon_species_id": 34,
     "local_language_id": 2,
     "name": "Nidoking",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 34,
@@ -2253,7 +2253,7 @@
     "pokemon_species_id": 35,
     "local_language_id": 2,
     "name": "Pippi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 35,
@@ -2319,7 +2319,7 @@
     "pokemon_species_id": 36,
     "local_language_id": 2,
     "name": "Pixy",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 36,
@@ -2385,7 +2385,7 @@
     "pokemon_species_id": 37,
     "local_language_id": 2,
     "name": "Rokon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 37,
@@ -2451,7 +2451,7 @@
     "pokemon_species_id": 38,
     "local_language_id": 2,
     "name": "Kyukon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 38,
@@ -2517,7 +2517,7 @@
     "pokemon_species_id": 39,
     "local_language_id": 2,
     "name": "Purin",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 39,
@@ -2583,7 +2583,7 @@
     "pokemon_species_id": 40,
     "local_language_id": 2,
     "name": "Pukurin",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 40,
@@ -2649,7 +2649,7 @@
     "pokemon_species_id": 41,
     "local_language_id": 2,
     "name": "Zubat",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 41,
@@ -2715,7 +2715,7 @@
     "pokemon_species_id": 42,
     "local_language_id": 2,
     "name": "Golbat",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 42,
@@ -2781,7 +2781,7 @@
     "pokemon_species_id": 43,
     "local_language_id": 2,
     "name": "Nazonokusa",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 43,
@@ -2847,7 +2847,7 @@
     "pokemon_species_id": 44,
     "local_language_id": 2,
     "name": "Kusaihana",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 44,
@@ -2913,7 +2913,7 @@
     "pokemon_species_id": 45,
     "local_language_id": 2,
     "name": "Ruffresia",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 45,
@@ -2979,7 +2979,7 @@
     "pokemon_species_id": 46,
     "local_language_id": 2,
     "name": "Paras",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 46,
@@ -3045,7 +3045,7 @@
     "pokemon_species_id": 47,
     "local_language_id": 2,
     "name": "Parasect",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 47,
@@ -3111,7 +3111,7 @@
     "pokemon_species_id": 48,
     "local_language_id": 2,
     "name": "Kongpang",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 48,
@@ -3177,7 +3177,7 @@
     "pokemon_species_id": 49,
     "local_language_id": 2,
     "name": "Morphon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 49,
@@ -3243,7 +3243,7 @@
     "pokemon_species_id": 50,
     "local_language_id": 2,
     "name": "Digda",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 50,
@@ -3309,7 +3309,7 @@
     "pokemon_species_id": 51,
     "local_language_id": 2,
     "name": "Dugtrio",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 51,
@@ -3375,7 +3375,7 @@
     "pokemon_species_id": 52,
     "local_language_id": 2,
     "name": "Nyarth",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 52,
@@ -3441,7 +3441,7 @@
     "pokemon_species_id": 53,
     "local_language_id": 2,
     "name": "Persian",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 53,
@@ -3507,7 +3507,7 @@
     "pokemon_species_id": 54,
     "local_language_id": 2,
     "name": "Koduck",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 54,
@@ -3573,7 +3573,7 @@
     "pokemon_species_id": 55,
     "local_language_id": 2,
     "name": "Golduck",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 55,
@@ -3639,7 +3639,7 @@
     "pokemon_species_id": 56,
     "local_language_id": 2,
     "name": "Mankey",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 56,
@@ -3705,7 +3705,7 @@
     "pokemon_species_id": 57,
     "local_language_id": 2,
     "name": "Okorizaru",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 57,
@@ -3771,7 +3771,7 @@
     "pokemon_species_id": 58,
     "local_language_id": 2,
     "name": "Gardie",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 58,
@@ -3837,7 +3837,7 @@
     "pokemon_species_id": 59,
     "local_language_id": 2,
     "name": "Windie",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 59,
@@ -3903,7 +3903,7 @@
     "pokemon_species_id": 60,
     "local_language_id": 2,
     "name": "Nyoromo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 60,
@@ -3969,7 +3969,7 @@
     "pokemon_species_id": 61,
     "local_language_id": 2,
     "name": "Nyorozo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 61,
@@ -4035,7 +4035,7 @@
     "pokemon_species_id": 62,
     "local_language_id": 2,
     "name": "Nyorobon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 62,
@@ -4101,7 +4101,7 @@
     "pokemon_species_id": 63,
     "local_language_id": 2,
     "name": "Casey",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 63,
@@ -4167,7 +4167,7 @@
     "pokemon_species_id": 64,
     "local_language_id": 2,
     "name": "Yungerer",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 64,
@@ -4233,7 +4233,7 @@
     "pokemon_species_id": 65,
     "local_language_id": 2,
     "name": "Foodin",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 65,
@@ -4299,7 +4299,7 @@
     "pokemon_species_id": 66,
     "local_language_id": 2,
     "name": "Wanriky",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 66,
@@ -4365,7 +4365,7 @@
     "pokemon_species_id": 67,
     "local_language_id": 2,
     "name": "Goriky",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 67,
@@ -4431,7 +4431,7 @@
     "pokemon_species_id": 68,
     "local_language_id": 2,
     "name": "Kairiky",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 68,
@@ -4497,7 +4497,7 @@
     "pokemon_species_id": 69,
     "local_language_id": 2,
     "name": "Madatsubomi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 69,
@@ -4563,7 +4563,7 @@
     "pokemon_species_id": 70,
     "local_language_id": 2,
     "name": "Utsudon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 70,
@@ -4629,7 +4629,7 @@
     "pokemon_species_id": 71,
     "local_language_id": 2,
     "name": "Utsubot",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 71,
@@ -4695,7 +4695,7 @@
     "pokemon_species_id": 72,
     "local_language_id": 2,
     "name": "Menokurage",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 72,
@@ -4761,7 +4761,7 @@
     "pokemon_species_id": 73,
     "local_language_id": 2,
     "name": "Dokukurage",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 73,
@@ -4827,7 +4827,7 @@
     "pokemon_species_id": 74,
     "local_language_id": 2,
     "name": "Isitsubute",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 74,
@@ -4893,7 +4893,7 @@
     "pokemon_species_id": 75,
     "local_language_id": 2,
     "name": "Golone",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 75,
@@ -4959,7 +4959,7 @@
     "pokemon_species_id": 76,
     "local_language_id": 2,
     "name": "Golonya",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 76,
@@ -5025,7 +5025,7 @@
     "pokemon_species_id": 77,
     "local_language_id": 2,
     "name": "Ponyta",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 77,
@@ -5091,7 +5091,7 @@
     "pokemon_species_id": 78,
     "local_language_id": 2,
     "name": "Gallop",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 78,
@@ -5157,7 +5157,7 @@
     "pokemon_species_id": 79,
     "local_language_id": 2,
     "name": "Yadon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 79,
@@ -5223,7 +5223,7 @@
     "pokemon_species_id": 80,
     "local_language_id": 2,
     "name": "Yadoran",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 80,
@@ -5289,7 +5289,7 @@
     "pokemon_species_id": 81,
     "local_language_id": 2,
     "name": "Coil",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 81,
@@ -5355,7 +5355,7 @@
     "pokemon_species_id": 82,
     "local_language_id": 2,
     "name": "Rarecoil",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 82,
@@ -5421,7 +5421,7 @@
     "pokemon_species_id": 83,
     "local_language_id": 2,
     "name": "Kamonegi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 83,
@@ -5487,7 +5487,7 @@
     "pokemon_species_id": 84,
     "local_language_id": 2,
     "name": "Dodo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 84,
@@ -5553,7 +5553,7 @@
     "pokemon_species_id": 85,
     "local_language_id": 2,
     "name": "Dodorio",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 85,
@@ -5619,7 +5619,7 @@
     "pokemon_species_id": 86,
     "local_language_id": 2,
     "name": "Pawou",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 86,
@@ -5685,7 +5685,7 @@
     "pokemon_species_id": 87,
     "local_language_id": 2,
     "name": "Jugon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 87,
@@ -5751,7 +5751,7 @@
     "pokemon_species_id": 88,
     "local_language_id": 2,
     "name": "Betbeter",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 88,
@@ -5817,7 +5817,7 @@
     "pokemon_species_id": 89,
     "local_language_id": 2,
     "name": "Betbeton",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 89,
@@ -5883,7 +5883,7 @@
     "pokemon_species_id": 90,
     "local_language_id": 2,
     "name": "Shellder",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 90,
@@ -5949,7 +5949,7 @@
     "pokemon_species_id": 91,
     "local_language_id": 2,
     "name": "Parshen",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 91,
@@ -6015,7 +6015,7 @@
     "pokemon_species_id": 92,
     "local_language_id": 2,
     "name": "Ghos",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 92,
@@ -6081,7 +6081,7 @@
     "pokemon_species_id": 93,
     "local_language_id": 2,
     "name": "Ghost",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 93,
@@ -6147,7 +6147,7 @@
     "pokemon_species_id": 94,
     "local_language_id": 2,
     "name": "Gangar",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 94,
@@ -6213,7 +6213,7 @@
     "pokemon_species_id": 95,
     "local_language_id": 2,
     "name": "Iwark",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 95,
@@ -6279,7 +6279,7 @@
     "pokemon_species_id": 96,
     "local_language_id": 2,
     "name": "Sleep",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 96,
@@ -6345,7 +6345,7 @@
     "pokemon_species_id": 97,
     "local_language_id": 2,
     "name": "Sleeper",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 97,
@@ -6411,7 +6411,7 @@
     "pokemon_species_id": 98,
     "local_language_id": 2,
     "name": "Crab",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 98,
@@ -6477,7 +6477,7 @@
     "pokemon_species_id": 99,
     "local_language_id": 2,
     "name": "Kingler",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 99,
@@ -6543,7 +6543,7 @@
     "pokemon_species_id": 100,
     "local_language_id": 2,
     "name": "Biriridama",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 100,
@@ -6609,7 +6609,7 @@
     "pokemon_species_id": 101,
     "local_language_id": 2,
     "name": "Marumine",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 101,
@@ -6675,7 +6675,7 @@
     "pokemon_species_id": 102,
     "local_language_id": 2,
     "name": "Tamatama",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 102,
@@ -6741,7 +6741,7 @@
     "pokemon_species_id": 103,
     "local_language_id": 2,
     "name": "Nassy",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 103,
@@ -6807,7 +6807,7 @@
     "pokemon_species_id": 104,
     "local_language_id": 2,
     "name": "Karakara",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 104,
@@ -6873,7 +6873,7 @@
     "pokemon_species_id": 105,
     "local_language_id": 2,
     "name": "Garagara",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 105,
@@ -6939,7 +6939,7 @@
     "pokemon_species_id": 106,
     "local_language_id": 2,
     "name": "Sawamular",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 106,
@@ -7005,7 +7005,7 @@
     "pokemon_species_id": 107,
     "local_language_id": 2,
     "name": "Ebiwalar",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 107,
@@ -7071,7 +7071,7 @@
     "pokemon_species_id": 108,
     "local_language_id": 2,
     "name": "Beroringa",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 108,
@@ -7137,7 +7137,7 @@
     "pokemon_species_id": 109,
     "local_language_id": 2,
     "name": "Dogars",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 109,
@@ -7203,7 +7203,7 @@
     "pokemon_species_id": 110,
     "local_language_id": 2,
     "name": "Matadogas",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 110,
@@ -7269,7 +7269,7 @@
     "pokemon_species_id": 111,
     "local_language_id": 2,
     "name": "Sihorn",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 111,
@@ -7335,7 +7335,7 @@
     "pokemon_species_id": 112,
     "local_language_id": 2,
     "name": "Sidon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 112,
@@ -7401,7 +7401,7 @@
     "pokemon_species_id": 113,
     "local_language_id": 2,
     "name": "Lucky",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 113,
@@ -7467,7 +7467,7 @@
     "pokemon_species_id": 114,
     "local_language_id": 2,
     "name": "Monjara",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 114,
@@ -7533,7 +7533,7 @@
     "pokemon_species_id": 115,
     "local_language_id": 2,
     "name": "Garura",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 115,
@@ -7599,7 +7599,7 @@
     "pokemon_species_id": 116,
     "local_language_id": 2,
     "name": "Tattu",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 116,
@@ -7665,7 +7665,7 @@
     "pokemon_species_id": 117,
     "local_language_id": 2,
     "name": "Seadra",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 117,
@@ -7731,7 +7731,7 @@
     "pokemon_species_id": 118,
     "local_language_id": 2,
     "name": "Tosakinto",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 118,
@@ -7797,7 +7797,7 @@
     "pokemon_species_id": 119,
     "local_language_id": 2,
     "name": "Azumao",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 119,
@@ -7863,7 +7863,7 @@
     "pokemon_species_id": 120,
     "local_language_id": 2,
     "name": "Hitodeman",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 120,
@@ -7929,7 +7929,7 @@
     "pokemon_species_id": 121,
     "local_language_id": 2,
     "name": "Starmie",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 121,
@@ -7995,7 +7995,7 @@
     "pokemon_species_id": 122,
     "local_language_id": 2,
     "name": "Barrierd",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 122,
@@ -8061,7 +8061,7 @@
     "pokemon_species_id": 123,
     "local_language_id": 2,
     "name": "Strike",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 123,
@@ -8127,7 +8127,7 @@
     "pokemon_species_id": 124,
     "local_language_id": 2,
     "name": "Rougela",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 124,
@@ -8193,7 +8193,7 @@
     "pokemon_species_id": 125,
     "local_language_id": 2,
     "name": "Eleboo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 125,
@@ -8259,7 +8259,7 @@
     "pokemon_species_id": 126,
     "local_language_id": 2,
     "name": "Boober",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 126,
@@ -8325,7 +8325,7 @@
     "pokemon_species_id": 127,
     "local_language_id": 2,
     "name": "Kailios",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 127,
@@ -8391,7 +8391,7 @@
     "pokemon_species_id": 128,
     "local_language_id": 2,
     "name": "Kentauros",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 128,
@@ -8457,7 +8457,7 @@
     "pokemon_species_id": 129,
     "local_language_id": 2,
     "name": "Koiking",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 129,
@@ -8523,7 +8523,7 @@
     "pokemon_species_id": 130,
     "local_language_id": 2,
     "name": "Gyarados",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 130,
@@ -8589,7 +8589,7 @@
     "pokemon_species_id": 131,
     "local_language_id": 2,
     "name": "Laplace",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 131,
@@ -8655,7 +8655,7 @@
     "pokemon_species_id": 132,
     "local_language_id": 2,
     "name": "Metamon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 132,
@@ -8721,7 +8721,7 @@
     "pokemon_species_id": 133,
     "local_language_id": 2,
     "name": "Eievui",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 133,
@@ -8787,7 +8787,7 @@
     "pokemon_species_id": 134,
     "local_language_id": 2,
     "name": "Showers",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 134,
@@ -8853,7 +8853,7 @@
     "pokemon_species_id": 135,
     "local_language_id": 2,
     "name": "Thunders",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 135,
@@ -8919,7 +8919,7 @@
     "pokemon_species_id": 136,
     "local_language_id": 2,
     "name": "Booster",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 136,
@@ -8985,7 +8985,7 @@
     "pokemon_species_id": 137,
     "local_language_id": 2,
     "name": "Porygon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 137,
@@ -9051,7 +9051,7 @@
     "pokemon_species_id": 138,
     "local_language_id": 2,
     "name": "Omnite",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 138,
@@ -9117,7 +9117,7 @@
     "pokemon_species_id": 139,
     "local_language_id": 2,
     "name": "Omstar",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 139,
@@ -9183,7 +9183,7 @@
     "pokemon_species_id": 140,
     "local_language_id": 2,
     "name": "Kabuto",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 140,
@@ -9249,7 +9249,7 @@
     "pokemon_species_id": 141,
     "local_language_id": 2,
     "name": "Kabutops",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 141,
@@ -9315,7 +9315,7 @@
     "pokemon_species_id": 142,
     "local_language_id": 2,
     "name": "Ptera",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 142,
@@ -9381,7 +9381,7 @@
     "pokemon_species_id": 143,
     "local_language_id": 2,
     "name": "Kabigon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 143,
@@ -9447,7 +9447,7 @@
     "pokemon_species_id": 144,
     "local_language_id": 2,
     "name": "Freezer",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 144,
@@ -9513,7 +9513,7 @@
     "pokemon_species_id": 145,
     "local_language_id": 2,
     "name": "Thunder",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 145,
@@ -9579,7 +9579,7 @@
     "pokemon_species_id": 146,
     "local_language_id": 2,
     "name": "Fire",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 146,
@@ -9645,7 +9645,7 @@
     "pokemon_species_id": 147,
     "local_language_id": 2,
     "name": "Miniryu",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 147,
@@ -9711,7 +9711,7 @@
     "pokemon_species_id": 148,
     "local_language_id": 2,
     "name": "Hakuryu",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 148,
@@ -9777,7 +9777,7 @@
     "pokemon_species_id": 149,
     "local_language_id": 2,
     "name": "Kairyu",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 149,
@@ -9843,7 +9843,7 @@
     "pokemon_species_id": 150,
     "local_language_id": 2,
     "name": "Mewtwo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 150,
@@ -9909,7 +9909,7 @@
     "pokemon_species_id": 151,
     "local_language_id": 2,
     "name": "Mew",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 151,
@@ -9975,7 +9975,7 @@
     "pokemon_species_id": 152,
     "local_language_id": 2,
     "name": "Chicorita",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 152,
@@ -10041,7 +10041,7 @@
     "pokemon_species_id": 153,
     "local_language_id": 2,
     "name": "Bayleaf",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 153,
@@ -10107,7 +10107,7 @@
     "pokemon_species_id": 154,
     "local_language_id": 2,
     "name": "Meganium",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 154,
@@ -10173,7 +10173,7 @@
     "pokemon_species_id": 155,
     "local_language_id": 2,
     "name": "Hinoarashi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 155,
@@ -10239,7 +10239,7 @@
     "pokemon_species_id": 156,
     "local_language_id": 2,
     "name": "Magmarashi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 156,
@@ -10305,7 +10305,7 @@
     "pokemon_species_id": 157,
     "local_language_id": 2,
     "name": "Bakphoon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 157,
@@ -10371,7 +10371,7 @@
     "pokemon_species_id": 158,
     "local_language_id": 2,
     "name": "Waninoko",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 158,
@@ -10437,7 +10437,7 @@
     "pokemon_species_id": 159,
     "local_language_id": 2,
     "name": "Alligates",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 159,
@@ -10503,7 +10503,7 @@
     "pokemon_species_id": 160,
     "local_language_id": 2,
     "name": "Ordile",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 160,
@@ -10569,7 +10569,7 @@
     "pokemon_species_id": 161,
     "local_language_id": 2,
     "name": "Otachi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 161,
@@ -10635,7 +10635,7 @@
     "pokemon_species_id": 162,
     "local_language_id": 2,
     "name": "Ootachi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 162,
@@ -10701,7 +10701,7 @@
     "pokemon_species_id": 163,
     "local_language_id": 2,
     "name": "Hoho",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 163,
@@ -10767,7 +10767,7 @@
     "pokemon_species_id": 164,
     "local_language_id": 2,
     "name": "Yorunozuku",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 164,
@@ -10833,7 +10833,7 @@
     "pokemon_species_id": 165,
     "local_language_id": 2,
     "name": "Rediba",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 165,
@@ -10899,7 +10899,7 @@
     "pokemon_species_id": 166,
     "local_language_id": 2,
     "name": "Redian",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 166,
@@ -10965,7 +10965,7 @@
     "pokemon_species_id": 167,
     "local_language_id": 2,
     "name": "Itomaru",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 167,
@@ -11031,7 +11031,7 @@
     "pokemon_species_id": 168,
     "local_language_id": 2,
     "name": "Ariados",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 168,
@@ -11097,7 +11097,7 @@
     "pokemon_species_id": 169,
     "local_language_id": 2,
     "name": "Crobat",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 169,
@@ -11163,7 +11163,7 @@
     "pokemon_species_id": 170,
     "local_language_id": 2,
     "name": "Chonchie",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 170,
@@ -11229,7 +11229,7 @@
     "pokemon_species_id": 171,
     "local_language_id": 2,
     "name": "Lantern",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 171,
@@ -11295,7 +11295,7 @@
     "pokemon_species_id": 172,
     "local_language_id": 2,
     "name": "Pichu",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 172,
@@ -11361,7 +11361,7 @@
     "pokemon_species_id": 173,
     "local_language_id": 2,
     "name": "Py",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 173,
@@ -11427,7 +11427,7 @@
     "pokemon_species_id": 174,
     "local_language_id": 2,
     "name": "Pupurin",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 174,
@@ -11493,7 +11493,7 @@
     "pokemon_species_id": 175,
     "local_language_id": 2,
     "name": "Togepy",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 175,
@@ -11559,7 +11559,7 @@
     "pokemon_species_id": 176,
     "local_language_id": 2,
     "name": "Togechick",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 176,
@@ -11625,7 +11625,7 @@
     "pokemon_species_id": 177,
     "local_language_id": 2,
     "name": "Naty",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 177,
@@ -11691,7 +11691,7 @@
     "pokemon_species_id": 178,
     "local_language_id": 2,
     "name": "Natio",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 178,
@@ -11757,7 +11757,7 @@
     "pokemon_species_id": 179,
     "local_language_id": 2,
     "name": "Merriep",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 179,
@@ -11823,7 +11823,7 @@
     "pokemon_species_id": 180,
     "local_language_id": 2,
     "name": "Mokoko",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 180,
@@ -11889,7 +11889,7 @@
     "pokemon_species_id": 181,
     "local_language_id": 2,
     "name": "Denryu",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 181,
@@ -11955,7 +11955,7 @@
     "pokemon_species_id": 182,
     "local_language_id": 2,
     "name": "Kireihana",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 182,
@@ -12021,7 +12021,7 @@
     "pokemon_species_id": 183,
     "local_language_id": 2,
     "name": "Maril",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 183,
@@ -12087,7 +12087,7 @@
     "pokemon_species_id": 184,
     "local_language_id": 2,
     "name": "Marilli",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 184,
@@ -12153,7 +12153,7 @@
     "pokemon_species_id": 185,
     "local_language_id": 2,
     "name": "Usokkie",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 185,
@@ -12219,7 +12219,7 @@
     "pokemon_species_id": 186,
     "local_language_id": 2,
     "name": "Nyorotono",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 186,
@@ -12285,7 +12285,7 @@
     "pokemon_species_id": 187,
     "local_language_id": 2,
     "name": "Hanecco",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 187,
@@ -12351,7 +12351,7 @@
     "pokemon_species_id": 188,
     "local_language_id": 2,
     "name": "Popocco",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 188,
@@ -12417,7 +12417,7 @@
     "pokemon_species_id": 189,
     "local_language_id": 2,
     "name": "Watacco",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 189,
@@ -12483,7 +12483,7 @@
     "pokemon_species_id": 190,
     "local_language_id": 2,
     "name": "Eipam",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 190,
@@ -12549,7 +12549,7 @@
     "pokemon_species_id": 191,
     "local_language_id": 2,
     "name": "Himanuts",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 191,
@@ -12615,7 +12615,7 @@
     "pokemon_species_id": 192,
     "local_language_id": 2,
     "name": "Kimawari",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 192,
@@ -12681,7 +12681,7 @@
     "pokemon_species_id": 193,
     "local_language_id": 2,
     "name": "Yanyanma",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 193,
@@ -12747,7 +12747,7 @@
     "pokemon_species_id": 194,
     "local_language_id": 2,
     "name": "Upah",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 194,
@@ -12813,7 +12813,7 @@
     "pokemon_species_id": 195,
     "local_language_id": 2,
     "name": "Nuoh",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 195,
@@ -12879,7 +12879,7 @@
     "pokemon_species_id": 196,
     "local_language_id": 2,
     "name": "Eifie",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 196,
@@ -12945,7 +12945,7 @@
     "pokemon_species_id": 197,
     "local_language_id": 2,
     "name": "Blacky",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 197,
@@ -13011,7 +13011,7 @@
     "pokemon_species_id": 198,
     "local_language_id": 2,
     "name": "Yamikarasu",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 198,
@@ -13077,7 +13077,7 @@
     "pokemon_species_id": 199,
     "local_language_id": 2,
     "name": "Yadoking",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 199,
@@ -13143,7 +13143,7 @@
     "pokemon_species_id": 200,
     "local_language_id": 2,
     "name": "Muma",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 200,
@@ -13209,7 +13209,7 @@
     "pokemon_species_id": 201,
     "local_language_id": 2,
     "name": "Unknown",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 201,
@@ -13275,7 +13275,7 @@
     "pokemon_species_id": 202,
     "local_language_id": 2,
     "name": "Sonans",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 202,
@@ -13341,7 +13341,7 @@
     "pokemon_species_id": 203,
     "local_language_id": 2,
     "name": "Kirinriki",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 203,
@@ -13407,7 +13407,7 @@
     "pokemon_species_id": 204,
     "local_language_id": 2,
     "name": "Kunugidama",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 204,
@@ -13473,7 +13473,7 @@
     "pokemon_species_id": 205,
     "local_language_id": 2,
     "name": "Foretos",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 205,
@@ -13539,7 +13539,7 @@
     "pokemon_species_id": 206,
     "local_language_id": 2,
     "name": "Nokocchi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 206,
@@ -13605,7 +13605,7 @@
     "pokemon_species_id": 207,
     "local_language_id": 2,
     "name": "Gliger",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 207,
@@ -13671,7 +13671,7 @@
     "pokemon_species_id": 208,
     "local_language_id": 2,
     "name": "Haganeil",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 208,
@@ -13737,7 +13737,7 @@
     "pokemon_species_id": 209,
     "local_language_id": 2,
     "name": "Bulu",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 209,
@@ -13803,7 +13803,7 @@
     "pokemon_species_id": 210,
     "local_language_id": 2,
     "name": "Granbulu",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 210,
@@ -13869,7 +13869,7 @@
     "pokemon_species_id": 211,
     "local_language_id": 2,
     "name": "Harysen",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 211,
@@ -13935,7 +13935,7 @@
     "pokemon_species_id": 212,
     "local_language_id": 2,
     "name": "Hassam",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 212,
@@ -14001,7 +14001,7 @@
     "pokemon_species_id": 213,
     "local_language_id": 2,
     "name": "Tsubotsubo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 213,
@@ -14067,7 +14067,7 @@
     "pokemon_species_id": 214,
     "local_language_id": 2,
     "name": "Heracros",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 214,
@@ -14133,7 +14133,7 @@
     "pokemon_species_id": 215,
     "local_language_id": 2,
     "name": "Nyula",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 215,
@@ -14199,7 +14199,7 @@
     "pokemon_species_id": 216,
     "local_language_id": 2,
     "name": "Himeguma",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 216,
@@ -14265,7 +14265,7 @@
     "pokemon_species_id": 217,
     "local_language_id": 2,
     "name": "Ringuma",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 217,
@@ -14331,7 +14331,7 @@
     "pokemon_species_id": 218,
     "local_language_id": 2,
     "name": "Magmag",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 218,
@@ -14397,7 +14397,7 @@
     "pokemon_species_id": 219,
     "local_language_id": 2,
     "name": "Magcargot",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 219,
@@ -14463,7 +14463,7 @@
     "pokemon_species_id": 220,
     "local_language_id": 2,
     "name": "Urimoo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 220,
@@ -14529,7 +14529,7 @@
     "pokemon_species_id": 221,
     "local_language_id": 2,
     "name": "Inomoo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 221,
@@ -14595,7 +14595,7 @@
     "pokemon_species_id": 222,
     "local_language_id": 2,
     "name": "Sunnygo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 222,
@@ -14661,7 +14661,7 @@
     "pokemon_species_id": 223,
     "local_language_id": 2,
     "name": "Teppouo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 223,
@@ -14727,7 +14727,7 @@
     "pokemon_species_id": 224,
     "local_language_id": 2,
     "name": "Okutank",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 224,
@@ -14793,7 +14793,7 @@
     "pokemon_species_id": 225,
     "local_language_id": 2,
     "name": "Delibird",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 225,
@@ -14859,7 +14859,7 @@
     "pokemon_species_id": 226,
     "local_language_id": 2,
     "name": "Mantain",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 226,
@@ -14925,7 +14925,7 @@
     "pokemon_species_id": 227,
     "local_language_id": 2,
     "name": "Airmd",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 227,
@@ -14991,7 +14991,7 @@
     "pokemon_species_id": 228,
     "local_language_id": 2,
     "name": "Delvil",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 228,
@@ -15057,7 +15057,7 @@
     "pokemon_species_id": 229,
     "local_language_id": 2,
     "name": "Hellgar",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 229,
@@ -15123,7 +15123,7 @@
     "pokemon_species_id": 230,
     "local_language_id": 2,
     "name": "Kingdra",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 230,
@@ -15189,7 +15189,7 @@
     "pokemon_species_id": 231,
     "local_language_id": 2,
     "name": "Gomazou",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 231,
@@ -15255,7 +15255,7 @@
     "pokemon_species_id": 232,
     "local_language_id": 2,
     "name": "Donfan",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 232,
@@ -15321,7 +15321,7 @@
     "pokemon_species_id": 233,
     "local_language_id": 2,
     "name": "Porygon2",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 233,
@@ -15387,7 +15387,7 @@
     "pokemon_species_id": 234,
     "local_language_id": 2,
     "name": "Odoshishi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 234,
@@ -15453,7 +15453,7 @@
     "pokemon_species_id": 235,
     "local_language_id": 2,
     "name": "Doble",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 235,
@@ -15519,7 +15519,7 @@
     "pokemon_species_id": 236,
     "local_language_id": 2,
     "name": "Balkie",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 236,
@@ -15585,7 +15585,7 @@
     "pokemon_species_id": 237,
     "local_language_id": 2,
     "name": "Kapoerer",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 237,
@@ -15651,7 +15651,7 @@
     "pokemon_species_id": 238,
     "local_language_id": 2,
     "name": "Muchul",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 238,
@@ -15717,7 +15717,7 @@
     "pokemon_species_id": 239,
     "local_language_id": 2,
     "name": "Elekid",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 239,
@@ -15783,7 +15783,7 @@
     "pokemon_species_id": 240,
     "local_language_id": 2,
     "name": "Buby",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 240,
@@ -15849,7 +15849,7 @@
     "pokemon_species_id": 241,
     "local_language_id": 2,
     "name": "Miltank",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 241,
@@ -15915,7 +15915,7 @@
     "pokemon_species_id": 242,
     "local_language_id": 2,
     "name": "Happinas",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 242,
@@ -15981,7 +15981,7 @@
     "pokemon_species_id": 243,
     "local_language_id": 2,
     "name": "Raikou",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 243,
@@ -16047,7 +16047,7 @@
     "pokemon_species_id": 244,
     "local_language_id": 2,
     "name": "Entei",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 244,
@@ -16113,7 +16113,7 @@
     "pokemon_species_id": 245,
     "local_language_id": 2,
     "name": "Suikun",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 245,
@@ -16179,7 +16179,7 @@
     "pokemon_species_id": 246,
     "local_language_id": 2,
     "name": "Yogiras",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 246,
@@ -16245,7 +16245,7 @@
     "pokemon_species_id": 247,
     "local_language_id": 2,
     "name": "Sanagiras",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 247,
@@ -16311,7 +16311,7 @@
     "pokemon_species_id": 248,
     "local_language_id": 2,
     "name": "Bangiras",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 248,
@@ -16377,7 +16377,7 @@
     "pokemon_species_id": 249,
     "local_language_id": 2,
     "name": "Lugia",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 249,
@@ -16443,7 +16443,7 @@
     "pokemon_species_id": 250,
     "local_language_id": 2,
     "name": "Houou",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 250,
@@ -16509,7 +16509,7 @@
     "pokemon_species_id": 251,
     "local_language_id": 2,
     "name": "Celebi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 251,
@@ -16575,7 +16575,7 @@
     "pokemon_species_id": 252,
     "local_language_id": 2,
     "name": "Kimori",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 252,
@@ -16641,7 +16641,7 @@
     "pokemon_species_id": 253,
     "local_language_id": 2,
     "name": "Juptile",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 253,
@@ -16707,7 +16707,7 @@
     "pokemon_species_id": 254,
     "local_language_id": 2,
     "name": "Jukain",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 254,
@@ -16773,7 +16773,7 @@
     "pokemon_species_id": 255,
     "local_language_id": 2,
     "name": "Achamo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 255,
@@ -16839,7 +16839,7 @@
     "pokemon_species_id": 256,
     "local_language_id": 2,
     "name": "Wakasyamo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 256,
@@ -16905,7 +16905,7 @@
     "pokemon_species_id": 257,
     "local_language_id": 2,
     "name": "Bursyamo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 257,
@@ -16971,7 +16971,7 @@
     "pokemon_species_id": 258,
     "local_language_id": 2,
     "name": "Mizugorou",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 258,
@@ -17037,7 +17037,7 @@
     "pokemon_species_id": 259,
     "local_language_id": 2,
     "name": "Numacraw",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 259,
@@ -17103,7 +17103,7 @@
     "pokemon_species_id": 260,
     "local_language_id": 2,
     "name": "Laglarge",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 260,
@@ -17169,7 +17169,7 @@
     "pokemon_species_id": 261,
     "local_language_id": 2,
     "name": "Pochiena",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 261,
@@ -17235,7 +17235,7 @@
     "pokemon_species_id": 262,
     "local_language_id": 2,
     "name": "Guraena",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 262,
@@ -17301,7 +17301,7 @@
     "pokemon_species_id": 263,
     "local_language_id": 2,
     "name": "Ziguzaguma",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 263,
@@ -17367,7 +17367,7 @@
     "pokemon_species_id": 264,
     "local_language_id": 2,
     "name": "Massuguma",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 264,
@@ -17433,7 +17433,7 @@
     "pokemon_species_id": 265,
     "local_language_id": 2,
     "name": "Kemusso",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 265,
@@ -17499,7 +17499,7 @@
     "pokemon_species_id": 266,
     "local_language_id": 2,
     "name": "Karasalis",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 266,
@@ -17565,7 +17565,7 @@
     "pokemon_species_id": 267,
     "local_language_id": 2,
     "name": "Agehunt",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 267,
@@ -17631,7 +17631,7 @@
     "pokemon_species_id": 268,
     "local_language_id": 2,
     "name": "Mayuld",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 268,
@@ -17697,7 +17697,7 @@
     "pokemon_species_id": 269,
     "local_language_id": 2,
     "name": "Dokucale",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 269,
@@ -17763,7 +17763,7 @@
     "pokemon_species_id": 270,
     "local_language_id": 2,
     "name": "Hassboh",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 270,
@@ -17829,7 +17829,7 @@
     "pokemon_species_id": 271,
     "local_language_id": 2,
     "name": "Hasubrero",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 271,
@@ -17895,7 +17895,7 @@
     "pokemon_species_id": 272,
     "local_language_id": 2,
     "name": "Runpappa",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 272,
@@ -17961,7 +17961,7 @@
     "pokemon_species_id": 273,
     "local_language_id": 2,
     "name": "Taneboh",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 273,
@@ -18027,7 +18027,7 @@
     "pokemon_species_id": 274,
     "local_language_id": 2,
     "name": "Konohana",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 274,
@@ -18093,7 +18093,7 @@
     "pokemon_species_id": 275,
     "local_language_id": 2,
     "name": "Dirteng",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 275,
@@ -18159,7 +18159,7 @@
     "pokemon_species_id": 276,
     "local_language_id": 2,
     "name": "Subame",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 276,
@@ -18225,7 +18225,7 @@
     "pokemon_species_id": 277,
     "local_language_id": 2,
     "name": "Ohsubame",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 277,
@@ -18291,7 +18291,7 @@
     "pokemon_species_id": 278,
     "local_language_id": 2,
     "name": "Camome",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 278,
@@ -18357,7 +18357,7 @@
     "pokemon_species_id": 279,
     "local_language_id": 2,
     "name": "Pelipper",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 279,
@@ -18423,7 +18423,7 @@
     "pokemon_species_id": 280,
     "local_language_id": 2,
     "name": "Ralts",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 280,
@@ -18489,7 +18489,7 @@
     "pokemon_species_id": 281,
     "local_language_id": 2,
     "name": "Kirlia",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 281,
@@ -18555,7 +18555,7 @@
     "pokemon_species_id": 282,
     "local_language_id": 2,
     "name": "Sirnight",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 282,
@@ -18621,7 +18621,7 @@
     "pokemon_species_id": 283,
     "local_language_id": 2,
     "name": "Ametama",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 283,
@@ -18687,7 +18687,7 @@
     "pokemon_species_id": 284,
     "local_language_id": 2,
     "name": "Amemoth",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 284,
@@ -18753,7 +18753,7 @@
     "pokemon_species_id": 285,
     "local_language_id": 2,
     "name": "Kinococo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 285,
@@ -18819,7 +18819,7 @@
     "pokemon_species_id": 286,
     "local_language_id": 2,
     "name": "Kinogassa",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 286,
@@ -18885,7 +18885,7 @@
     "pokemon_species_id": 287,
     "local_language_id": 2,
     "name": "Namakero",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 287,
@@ -18951,7 +18951,7 @@
     "pokemon_species_id": 288,
     "local_language_id": 2,
     "name": "Yarukimono",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 288,
@@ -19017,7 +19017,7 @@
     "pokemon_species_id": 289,
     "local_language_id": 2,
     "name": "Kekking",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 289,
@@ -19083,7 +19083,7 @@
     "pokemon_species_id": 290,
     "local_language_id": 2,
     "name": "Tutinin",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 290,
@@ -19149,7 +19149,7 @@
     "pokemon_species_id": 291,
     "local_language_id": 2,
     "name": "Tekkanin",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 291,
@@ -19215,7 +19215,7 @@
     "pokemon_species_id": 292,
     "local_language_id": 2,
     "name": "Nukenin",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 292,
@@ -19281,7 +19281,7 @@
     "pokemon_species_id": 293,
     "local_language_id": 2,
     "name": "Gonyonyo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 293,
@@ -19347,7 +19347,7 @@
     "pokemon_species_id": 294,
     "local_language_id": 2,
     "name": "Dogohmb",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 294,
@@ -19413,7 +19413,7 @@
     "pokemon_species_id": 295,
     "local_language_id": 2,
     "name": "Bakuong",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 295,
@@ -19479,7 +19479,7 @@
     "pokemon_species_id": 296,
     "local_language_id": 2,
     "name": "Makunoshita",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 296,
@@ -19545,7 +19545,7 @@
     "pokemon_species_id": 297,
     "local_language_id": 2,
     "name": "Hariteyama",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 297,
@@ -19611,7 +19611,7 @@
     "pokemon_species_id": 298,
     "local_language_id": 2,
     "name": "Ruriri",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 298,
@@ -19677,7 +19677,7 @@
     "pokemon_species_id": 299,
     "local_language_id": 2,
     "name": "Nosepass",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 299,
@@ -19743,7 +19743,7 @@
     "pokemon_species_id": 300,
     "local_language_id": 2,
     "name": "Eneco",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 300,
@@ -19809,7 +19809,7 @@
     "pokemon_species_id": 301,
     "local_language_id": 2,
     "name": "Enekororo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 301,
@@ -19875,7 +19875,7 @@
     "pokemon_species_id": 302,
     "local_language_id": 2,
     "name": "Yamirami",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 302,
@@ -19941,7 +19941,7 @@
     "pokemon_species_id": 303,
     "local_language_id": 2,
     "name": "Kucheat",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 303,
@@ -20007,7 +20007,7 @@
     "pokemon_species_id": 304,
     "local_language_id": 2,
     "name": "Cokodora",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 304,
@@ -20073,7 +20073,7 @@
     "pokemon_species_id": 305,
     "local_language_id": 2,
     "name": "Kodora",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 305,
@@ -20139,7 +20139,7 @@
     "pokemon_species_id": 306,
     "local_language_id": 2,
     "name": "Bossgodora",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 306,
@@ -20205,7 +20205,7 @@
     "pokemon_species_id": 307,
     "local_language_id": 2,
     "name": "Asanan",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 307,
@@ -20271,7 +20271,7 @@
     "pokemon_species_id": 308,
     "local_language_id": 2,
     "name": "Charem",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 308,
@@ -20337,7 +20337,7 @@
     "pokemon_species_id": 309,
     "local_language_id": 2,
     "name": "Rakurai",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 309,
@@ -20403,7 +20403,7 @@
     "pokemon_species_id": 310,
     "local_language_id": 2,
     "name": "Livolt",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 310,
@@ -20469,7 +20469,7 @@
     "pokemon_species_id": 311,
     "local_language_id": 2,
     "name": "Prasle",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 311,
@@ -20535,7 +20535,7 @@
     "pokemon_species_id": 312,
     "local_language_id": 2,
     "name": "Minun",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 312,
@@ -20601,7 +20601,7 @@
     "pokemon_species_id": 313,
     "local_language_id": 2,
     "name": "Barubeat",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 313,
@@ -20667,7 +20667,7 @@
     "pokemon_species_id": 314,
     "local_language_id": 2,
     "name": "Illumise",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 314,
@@ -20733,7 +20733,7 @@
     "pokemon_species_id": 315,
     "local_language_id": 2,
     "name": "Roselia",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 315,
@@ -20799,7 +20799,7 @@
     "pokemon_species_id": 316,
     "local_language_id": 2,
     "name": "Gokulin",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 316,
@@ -20865,7 +20865,7 @@
     "pokemon_species_id": 317,
     "local_language_id": 2,
     "name": "Marunoom",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 317,
@@ -20931,7 +20931,7 @@
     "pokemon_species_id": 318,
     "local_language_id": 2,
     "name": "Kibanha",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 318,
@@ -20997,7 +20997,7 @@
     "pokemon_species_id": 319,
     "local_language_id": 2,
     "name": "Samehader",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 319,
@@ -21063,7 +21063,7 @@
     "pokemon_species_id": 320,
     "local_language_id": 2,
     "name": "Whalko",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 320,
@@ -21129,7 +21129,7 @@
     "pokemon_species_id": 321,
     "local_language_id": 2,
     "name": "Whaloh",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 321,
@@ -21195,7 +21195,7 @@
     "pokemon_species_id": 322,
     "local_language_id": 2,
     "name": "Donmel",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 322,
@@ -21261,7 +21261,7 @@
     "pokemon_species_id": 323,
     "local_language_id": 2,
     "name": "Bakuuda",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 323,
@@ -21327,7 +21327,7 @@
     "pokemon_species_id": 324,
     "local_language_id": 2,
     "name": "Cotoise",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 324,
@@ -21393,7 +21393,7 @@
     "pokemon_species_id": 325,
     "local_language_id": 2,
     "name": "Baneboo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 325,
@@ -21459,7 +21459,7 @@
     "pokemon_species_id": 326,
     "local_language_id": 2,
     "name": "Boopig",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 326,
@@ -21525,7 +21525,7 @@
     "pokemon_species_id": 327,
     "local_language_id": 2,
     "name": "Patcheel",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 327,
@@ -21591,7 +21591,7 @@
     "pokemon_species_id": 328,
     "local_language_id": 2,
     "name": "Nuckrar",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 328,
@@ -21657,7 +21657,7 @@
     "pokemon_species_id": 329,
     "local_language_id": 2,
     "name": "Vibrava",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 329,
@@ -21723,7 +21723,7 @@
     "pokemon_species_id": 330,
     "local_language_id": 2,
     "name": "Frygon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 330,
@@ -21789,7 +21789,7 @@
     "pokemon_species_id": 331,
     "local_language_id": 2,
     "name": "Sabonea",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 331,
@@ -21855,7 +21855,7 @@
     "pokemon_species_id": 332,
     "local_language_id": 2,
     "name": "Noctus",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 332,
@@ -21921,7 +21921,7 @@
     "pokemon_species_id": 333,
     "local_language_id": 2,
     "name": "Tyltto",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 333,
@@ -21987,7 +21987,7 @@
     "pokemon_species_id": 334,
     "local_language_id": 2,
     "name": "Tyltalis",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 334,
@@ -22053,7 +22053,7 @@
     "pokemon_species_id": 335,
     "local_language_id": 2,
     "name": "Zangoose",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 335,
@@ -22119,7 +22119,7 @@
     "pokemon_species_id": 336,
     "local_language_id": 2,
     "name": "Habunake",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 336,
@@ -22185,7 +22185,7 @@
     "pokemon_species_id": 337,
     "local_language_id": 2,
     "name": "Lunatone",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 337,
@@ -22251,7 +22251,7 @@
     "pokemon_species_id": 338,
     "local_language_id": 2,
     "name": "Solrock",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 338,
@@ -22317,7 +22317,7 @@
     "pokemon_species_id": 339,
     "local_language_id": 2,
     "name": "Dojoach",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 339,
@@ -22383,7 +22383,7 @@
     "pokemon_species_id": 340,
     "local_language_id": 2,
     "name": "Namazun",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 340,
@@ -22449,7 +22449,7 @@
     "pokemon_species_id": 341,
     "local_language_id": 2,
     "name": "Heigani",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 341,
@@ -22515,7 +22515,7 @@
     "pokemon_species_id": 342,
     "local_language_id": 2,
     "name": "Shizariger",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 342,
@@ -22581,7 +22581,7 @@
     "pokemon_species_id": 343,
     "local_language_id": 2,
     "name": "Yajilon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 343,
@@ -22647,7 +22647,7 @@
     "pokemon_species_id": 344,
     "local_language_id": 2,
     "name": "Nendoll",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 344,
@@ -22713,7 +22713,7 @@
     "pokemon_species_id": 345,
     "local_language_id": 2,
     "name": "Lilyla",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 345,
@@ -22779,7 +22779,7 @@
     "pokemon_species_id": 346,
     "local_language_id": 2,
     "name": "Yuradle",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 346,
@@ -22845,7 +22845,7 @@
     "pokemon_species_id": 347,
     "local_language_id": 2,
     "name": "Anopth",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 347,
@@ -22911,7 +22911,7 @@
     "pokemon_species_id": 348,
     "local_language_id": 2,
     "name": "Armaldo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 348,
@@ -22977,7 +22977,7 @@
     "pokemon_species_id": 349,
     "local_language_id": 2,
     "name": "Hinbass",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 349,
@@ -23043,7 +23043,7 @@
     "pokemon_species_id": 350,
     "local_language_id": 2,
     "name": "Milokaross",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 350,
@@ -23109,7 +23109,7 @@
     "pokemon_species_id": 351,
     "local_language_id": 2,
     "name": "Powalen",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 351,
@@ -23175,7 +23175,7 @@
     "pokemon_species_id": 352,
     "local_language_id": 2,
     "name": "Kakureon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 352,
@@ -23241,7 +23241,7 @@
     "pokemon_species_id": 353,
     "local_language_id": 2,
     "name": "Kagebouzu",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 353,
@@ -23307,7 +23307,7 @@
     "pokemon_species_id": 354,
     "local_language_id": 2,
     "name": "Juppeta",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 354,
@@ -23373,7 +23373,7 @@
     "pokemon_species_id": 355,
     "local_language_id": 2,
     "name": "Yomawaru",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 355,
@@ -23439,7 +23439,7 @@
     "pokemon_species_id": 356,
     "local_language_id": 2,
     "name": "Samayouru",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 356,
@@ -23505,7 +23505,7 @@
     "pokemon_species_id": 357,
     "local_language_id": 2,
     "name": "Tropius",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 357,
@@ -23571,7 +23571,7 @@
     "pokemon_species_id": 358,
     "local_language_id": 2,
     "name": "Chirean",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 358,
@@ -23637,7 +23637,7 @@
     "pokemon_species_id": 359,
     "local_language_id": 2,
     "name": "Absol",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 359,
@@ -23703,7 +23703,7 @@
     "pokemon_species_id": 360,
     "local_language_id": 2,
     "name": "Sohnano",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 360,
@@ -23769,7 +23769,7 @@
     "pokemon_species_id": 361,
     "local_language_id": 2,
     "name": "Yukiwarashi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 361,
@@ -23835,7 +23835,7 @@
     "pokemon_species_id": 362,
     "local_language_id": 2,
     "name": "Onigohri",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 362,
@@ -23901,7 +23901,7 @@
     "pokemon_species_id": 363,
     "local_language_id": 2,
     "name": "Tamazarashi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 363,
@@ -23967,7 +23967,7 @@
     "pokemon_species_id": 364,
     "local_language_id": 2,
     "name": "Todoggler",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 364,
@@ -24033,7 +24033,7 @@
     "pokemon_species_id": 365,
     "local_language_id": 2,
     "name": "Todoseruga",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 365,
@@ -24099,7 +24099,7 @@
     "pokemon_species_id": 366,
     "local_language_id": 2,
     "name": "Pearlulu",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 366,
@@ -24165,7 +24165,7 @@
     "pokemon_species_id": 367,
     "local_language_id": 2,
     "name": "Huntail",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 367,
@@ -24231,7 +24231,7 @@
     "pokemon_species_id": 368,
     "local_language_id": 2,
     "name": "Sakurabyss",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 368,
@@ -24297,7 +24297,7 @@
     "pokemon_species_id": 369,
     "local_language_id": 2,
     "name": "Glanth",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 369,
@@ -24363,7 +24363,7 @@
     "pokemon_species_id": 370,
     "local_language_id": 2,
     "name": "Lovecus",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 370,
@@ -24429,7 +24429,7 @@
     "pokemon_species_id": 371,
     "local_language_id": 2,
     "name": "Tatsubay",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 371,
@@ -24495,7 +24495,7 @@
     "pokemon_species_id": 372,
     "local_language_id": 2,
     "name": "Komoruu",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 372,
@@ -24561,7 +24561,7 @@
     "pokemon_species_id": 373,
     "local_language_id": 2,
     "name": "Bohmander",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 373,
@@ -24627,7 +24627,7 @@
     "pokemon_species_id": 374,
     "local_language_id": 2,
     "name": "Dumbber",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 374,
@@ -24693,7 +24693,7 @@
     "pokemon_species_id": 375,
     "local_language_id": 2,
     "name": "Metang",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 375,
@@ -24759,7 +24759,7 @@
     "pokemon_species_id": 376,
     "local_language_id": 2,
     "name": "Metagross",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 376,
@@ -24825,7 +24825,7 @@
     "pokemon_species_id": 377,
     "local_language_id": 2,
     "name": "Regirock",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 377,
@@ -24891,7 +24891,7 @@
     "pokemon_species_id": 378,
     "local_language_id": 2,
     "name": "Regice",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 378,
@@ -24957,7 +24957,7 @@
     "pokemon_species_id": 379,
     "local_language_id": 2,
     "name": "Registeel",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 379,
@@ -25023,7 +25023,7 @@
     "pokemon_species_id": 380,
     "local_language_id": 2,
     "name": "Latias",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 380,
@@ -25089,7 +25089,7 @@
     "pokemon_species_id": 381,
     "local_language_id": 2,
     "name": "Latios",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 381,
@@ -25155,7 +25155,7 @@
     "pokemon_species_id": 382,
     "local_language_id": 2,
     "name": "Kyogre",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 382,
@@ -25221,7 +25221,7 @@
     "pokemon_species_id": 383,
     "local_language_id": 2,
     "name": "Groudon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 383,
@@ -25287,7 +25287,7 @@
     "pokemon_species_id": 384,
     "local_language_id": 2,
     "name": "Rayquaza",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 384,
@@ -25353,7 +25353,7 @@
     "pokemon_species_id": 385,
     "local_language_id": 2,
     "name": "Jirachi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 385,
@@ -25419,7 +25419,7 @@
     "pokemon_species_id": 386,
     "local_language_id": 2,
     "name": "Deoxys",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 386,
@@ -25485,7 +25485,7 @@
     "pokemon_species_id": 387,
     "local_language_id": 2,
     "name": "Naetle",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 387,
@@ -25551,7 +25551,7 @@
     "pokemon_species_id": 388,
     "local_language_id": 2,
     "name": "Hayashigame",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 388,
@@ -25617,7 +25617,7 @@
     "pokemon_species_id": 389,
     "local_language_id": 2,
     "name": "Dodaitose",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 389,
@@ -25683,7 +25683,7 @@
     "pokemon_species_id": 390,
     "local_language_id": 2,
     "name": "Hikozaru",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 390,
@@ -25749,7 +25749,7 @@
     "pokemon_species_id": 391,
     "local_language_id": 2,
     "name": "Mōkazaru",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 391,
@@ -25815,7 +25815,7 @@
     "pokemon_species_id": 392,
     "local_language_id": 2,
     "name": "Gōkazaru",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 392,
@@ -25881,7 +25881,7 @@
     "pokemon_species_id": 393,
     "local_language_id": 2,
     "name": "Pochama",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 393,
@@ -25947,7 +25947,7 @@
     "pokemon_species_id": 394,
     "local_language_id": 2,
     "name": "Pottaishi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 394,
@@ -26013,7 +26013,7 @@
     "pokemon_species_id": 395,
     "local_language_id": 2,
     "name": "Emperte",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 395,
@@ -26079,7 +26079,7 @@
     "pokemon_species_id": 396,
     "local_language_id": 2,
     "name": "Mukkuru",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 396,
@@ -26145,7 +26145,7 @@
     "pokemon_species_id": 397,
     "local_language_id": 2,
     "name": "Mukubird",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 397,
@@ -26211,7 +26211,7 @@
     "pokemon_species_id": 398,
     "local_language_id": 2,
     "name": "Mukuhawk",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 398,
@@ -26277,7 +26277,7 @@
     "pokemon_species_id": 399,
     "local_language_id": 2,
     "name": "Bipper",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 399,
@@ -26343,7 +26343,7 @@
     "pokemon_species_id": 400,
     "local_language_id": 2,
     "name": "Beadull",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 400,
@@ -26409,7 +26409,7 @@
     "pokemon_species_id": 401,
     "local_language_id": 2,
     "name": "Korobohshi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 401,
@@ -26475,7 +26475,7 @@
     "pokemon_species_id": 402,
     "local_language_id": 2,
     "name": "Korotok",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 402,
@@ -26541,7 +26541,7 @@
     "pokemon_species_id": 403,
     "local_language_id": 2,
     "name": "Kolink",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 403,
@@ -26607,7 +26607,7 @@
     "pokemon_species_id": 404,
     "local_language_id": 2,
     "name": "Luxio",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 404,
@@ -26673,7 +26673,7 @@
     "pokemon_species_id": 405,
     "local_language_id": 2,
     "name": "Rentorar",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 405,
@@ -26739,7 +26739,7 @@
     "pokemon_species_id": 406,
     "local_language_id": 2,
     "name": "Subomie",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 406,
@@ -26805,7 +26805,7 @@
     "pokemon_species_id": 407,
     "local_language_id": 2,
     "name": "Roserade",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 407,
@@ -26871,7 +26871,7 @@
     "pokemon_species_id": 408,
     "local_language_id": 2,
     "name": "Zugaidos",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 408,
@@ -26937,7 +26937,7 @@
     "pokemon_species_id": 409,
     "local_language_id": 2,
     "name": "Rampard",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 409,
@@ -27003,7 +27003,7 @@
     "pokemon_species_id": 410,
     "local_language_id": 2,
     "name": "Tatetops",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 410,
@@ -27069,7 +27069,7 @@
     "pokemon_species_id": 411,
     "local_language_id": 2,
     "name": "Trideps",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 411,
@@ -27135,7 +27135,7 @@
     "pokemon_species_id": 412,
     "local_language_id": 2,
     "name": "Minomucchi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 412,
@@ -27201,7 +27201,7 @@
     "pokemon_species_id": 413,
     "local_language_id": 2,
     "name": "Minomadam",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 413,
@@ -27267,7 +27267,7 @@
     "pokemon_species_id": 414,
     "local_language_id": 2,
     "name": "Garmeil",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 414,
@@ -27333,7 +27333,7 @@
     "pokemon_species_id": 415,
     "local_language_id": 2,
     "name": "Mitsuhoney",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 415,
@@ -27399,7 +27399,7 @@
     "pokemon_species_id": 416,
     "local_language_id": 2,
     "name": "Beequeen",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 416,
@@ -27465,7 +27465,7 @@
     "pokemon_species_id": 417,
     "local_language_id": 2,
     "name": "Pachirisu",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 417,
@@ -27531,7 +27531,7 @@
     "pokemon_species_id": 418,
     "local_language_id": 2,
     "name": "Buoysel",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 418,
@@ -27597,7 +27597,7 @@
     "pokemon_species_id": 419,
     "local_language_id": 2,
     "name": "Flowsel",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 419,
@@ -27663,7 +27663,7 @@
     "pokemon_species_id": 420,
     "local_language_id": 2,
     "name": "Cherinbo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 420,
@@ -27729,7 +27729,7 @@
     "pokemon_species_id": 421,
     "local_language_id": 2,
     "name": "Cherrim",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 421,
@@ -27795,7 +27795,7 @@
     "pokemon_species_id": 422,
     "local_language_id": 2,
     "name": "Karanakushi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 422,
@@ -27861,7 +27861,7 @@
     "pokemon_species_id": 423,
     "local_language_id": 2,
     "name": "Toritodon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 423,
@@ -27927,7 +27927,7 @@
     "pokemon_species_id": 424,
     "local_language_id": 2,
     "name": "Eteboth",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 424,
@@ -27993,7 +27993,7 @@
     "pokemon_species_id": 425,
     "local_language_id": 2,
     "name": "Fuwante",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 425,
@@ -28059,7 +28059,7 @@
     "pokemon_species_id": 426,
     "local_language_id": 2,
     "name": "Fuwaride",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 426,
@@ -28125,7 +28125,7 @@
     "pokemon_species_id": 427,
     "local_language_id": 2,
     "name": "Mimirol",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 427,
@@ -28191,7 +28191,7 @@
     "pokemon_species_id": 428,
     "local_language_id": 2,
     "name": "Mimilop",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 428,
@@ -28257,7 +28257,7 @@
     "pokemon_species_id": 429,
     "local_language_id": 2,
     "name": "Mumage",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 429,
@@ -28323,7 +28323,7 @@
     "pokemon_species_id": 430,
     "local_language_id": 2,
     "name": "Donkarasu",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 430,
@@ -28389,7 +28389,7 @@
     "pokemon_species_id": 431,
     "local_language_id": 2,
     "name": "Nyarmar",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 431,
@@ -28455,7 +28455,7 @@
     "pokemon_species_id": 432,
     "local_language_id": 2,
     "name": "Bunyat",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 432,
@@ -28521,7 +28521,7 @@
     "pokemon_species_id": 433,
     "local_language_id": 2,
     "name": "Lisyan",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 433,
@@ -28587,7 +28587,7 @@
     "pokemon_species_id": 434,
     "local_language_id": 2,
     "name": "Skunpoo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 434,
@@ -28653,7 +28653,7 @@
     "pokemon_species_id": 435,
     "local_language_id": 2,
     "name": "Skutank",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 435,
@@ -28719,7 +28719,7 @@
     "pokemon_species_id": 436,
     "local_language_id": 2,
     "name": "Domirror",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 436,
@@ -28785,7 +28785,7 @@
     "pokemon_species_id": 437,
     "local_language_id": 2,
     "name": "Dotakun",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 437,
@@ -28851,7 +28851,7 @@
     "pokemon_species_id": 438,
     "local_language_id": 2,
     "name": "Usohachi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 438,
@@ -28917,7 +28917,7 @@
     "pokemon_species_id": 439,
     "local_language_id": 2,
     "name": "Manene",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 439,
@@ -28983,7 +28983,7 @@
     "pokemon_species_id": 440,
     "local_language_id": 2,
     "name": "Pinpuku",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 440,
@@ -29049,7 +29049,7 @@
     "pokemon_species_id": 441,
     "local_language_id": 2,
     "name": "Perap",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 441,
@@ -29115,7 +29115,7 @@
     "pokemon_species_id": 442,
     "local_language_id": 2,
     "name": "Mikaruge",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 442,
@@ -29181,7 +29181,7 @@
     "pokemon_species_id": 443,
     "local_language_id": 2,
     "name": "Fukamaru",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 443,
@@ -29247,7 +29247,7 @@
     "pokemon_species_id": 444,
     "local_language_id": 2,
     "name": "Gabite",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 444,
@@ -29313,7 +29313,7 @@
     "pokemon_species_id": 445,
     "local_language_id": 2,
     "name": "Gablias",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 445,
@@ -29379,7 +29379,7 @@
     "pokemon_species_id": 446,
     "local_language_id": 2,
     "name": "Gonbe",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 446,
@@ -29445,7 +29445,7 @@
     "pokemon_species_id": 447,
     "local_language_id": 2,
     "name": "Riolu",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 447,
@@ -29511,7 +29511,7 @@
     "pokemon_species_id": 448,
     "local_language_id": 2,
     "name": "Lucario",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 448,
@@ -29577,7 +29577,7 @@
     "pokemon_species_id": 449,
     "local_language_id": 2,
     "name": "Hipopotas",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 449,
@@ -29643,7 +29643,7 @@
     "pokemon_species_id": 450,
     "local_language_id": 2,
     "name": "Kabarudon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 450,
@@ -29709,7 +29709,7 @@
     "pokemon_species_id": 451,
     "local_language_id": 2,
     "name": "Scorpi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 451,
@@ -29775,7 +29775,7 @@
     "pokemon_species_id": 452,
     "local_language_id": 2,
     "name": "Dorapion",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 452,
@@ -29841,7 +29841,7 @@
     "pokemon_species_id": 453,
     "local_language_id": 2,
     "name": "Gureggru",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 453,
@@ -29907,7 +29907,7 @@
     "pokemon_species_id": 454,
     "local_language_id": 2,
     "name": "Dokurog",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 454,
@@ -29973,7 +29973,7 @@
     "pokemon_species_id": 455,
     "local_language_id": 2,
     "name": "Muskippa",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 455,
@@ -30039,7 +30039,7 @@
     "pokemon_species_id": 456,
     "local_language_id": 2,
     "name": "Keikouo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 456,
@@ -30105,7 +30105,7 @@
     "pokemon_species_id": 457,
     "local_language_id": 2,
     "name": "Neolant",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 457,
@@ -30171,7 +30171,7 @@
     "pokemon_species_id": 458,
     "local_language_id": 2,
     "name": "Tamanta",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 458,
@@ -30237,7 +30237,7 @@
     "pokemon_species_id": 459,
     "local_language_id": 2,
     "name": "Yukikaburi",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 459,
@@ -30303,7 +30303,7 @@
     "pokemon_species_id": 460,
     "local_language_id": 2,
     "name": "Yukinooh",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 460,
@@ -30369,7 +30369,7 @@
     "pokemon_species_id": 461,
     "local_language_id": 2,
     "name": "Manyula",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 461,
@@ -30435,7 +30435,7 @@
     "pokemon_species_id": 462,
     "local_language_id": 2,
     "name": "Jibacoil",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 462,
@@ -30501,7 +30501,7 @@
     "pokemon_species_id": 463,
     "local_language_id": 2,
     "name": "Beroberto",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 463,
@@ -30567,7 +30567,7 @@
     "pokemon_species_id": 464,
     "local_language_id": 2,
     "name": "Dosydon",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 464,
@@ -30633,7 +30633,7 @@
     "pokemon_species_id": 465,
     "local_language_id": 2,
     "name": "Mojumbo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 465,
@@ -30699,7 +30699,7 @@
     "pokemon_species_id": 466,
     "local_language_id": 2,
     "name": "Elekible",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 466,
@@ -30765,7 +30765,7 @@
     "pokemon_species_id": 467,
     "local_language_id": 2,
     "name": "Booburn",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 467,
@@ -30831,7 +30831,7 @@
     "pokemon_species_id": 468,
     "local_language_id": 2,
     "name": "Togekiss",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 468,
@@ -30897,7 +30897,7 @@
     "pokemon_species_id": 469,
     "local_language_id": 2,
     "name": "Megayanma",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 469,
@@ -30963,7 +30963,7 @@
     "pokemon_species_id": 470,
     "local_language_id": 2,
     "name": "Leafia",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 470,
@@ -31029,7 +31029,7 @@
     "pokemon_species_id": 471,
     "local_language_id": 2,
     "name": "Glacia",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 471,
@@ -31095,7 +31095,7 @@
     "pokemon_species_id": 472,
     "local_language_id": 2,
     "name": "Glion",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 472,
@@ -31161,7 +31161,7 @@
     "pokemon_species_id": 473,
     "local_language_id": 2,
     "name": "Mammoo",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 473,
@@ -31227,7 +31227,7 @@
     "pokemon_species_id": 474,
     "local_language_id": 2,
     "name": "PorygonZ",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 474,
@@ -31293,7 +31293,7 @@
     "pokemon_species_id": 475,
     "local_language_id": 2,
     "name": "Erlade",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 475,
@@ -31359,7 +31359,7 @@
     "pokemon_species_id": 476,
     "local_language_id": 2,
     "name": "Dainose",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 476,
@@ -31425,7 +31425,7 @@
     "pokemon_species_id": 477,
     "local_language_id": 2,
     "name": "Yonoir",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 477,
@@ -31491,7 +31491,7 @@
     "pokemon_species_id": 478,
     "local_language_id": 2,
     "name": "Yukimenoko",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 478,
@@ -31557,7 +31557,7 @@
     "pokemon_species_id": 479,
     "local_language_id": 2,
     "name": "Rotom",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 479,
@@ -31623,7 +31623,7 @@
     "pokemon_species_id": 480,
     "local_language_id": 2,
     "name": "Yuxie",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 480,
@@ -31689,7 +31689,7 @@
     "pokemon_species_id": 481,
     "local_language_id": 2,
     "name": "Emrit",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 481,
@@ -31755,7 +31755,7 @@
     "pokemon_species_id": 482,
     "local_language_id": 2,
     "name": "Agnome",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 482,
@@ -31821,7 +31821,7 @@
     "pokemon_species_id": 483,
     "local_language_id": 2,
     "name": "Dialga",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 483,
@@ -31887,7 +31887,7 @@
     "pokemon_species_id": 484,
     "local_language_id": 2,
     "name": "Palkia",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 484,
@@ -31953,7 +31953,7 @@
     "pokemon_species_id": 485,
     "local_language_id": 2,
     "name": "Heatran",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 485,
@@ -32019,7 +32019,7 @@
     "pokemon_species_id": 486,
     "local_language_id": 2,
     "name": "Regigigas",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 486,
@@ -32085,7 +32085,7 @@
     "pokemon_species_id": 487,
     "local_language_id": 2,
     "name": "Giratina",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 487,
@@ -32151,7 +32151,7 @@
     "pokemon_species_id": 488,
     "local_language_id": 2,
     "name": "Crecelia",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 488,
@@ -32217,7 +32217,7 @@
     "pokemon_species_id": 489,
     "local_language_id": 2,
     "name": "Phione",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 489,
@@ -32283,7 +32283,7 @@
     "pokemon_species_id": 490,
     "local_language_id": 2,
     "name": "Manaphy",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 490,
@@ -32349,7 +32349,7 @@
     "pokemon_species_id": 491,
     "local_language_id": 2,
     "name": "Darkrai",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 491,
@@ -32415,7 +32415,7 @@
     "pokemon_species_id": 492,
     "local_language_id": 2,
     "name": "Shaymin",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 492,
@@ -32481,7 +32481,7 @@
     "pokemon_species_id": 493,
     "local_language_id": 2,
     "name": "Arceus",
-    "genus": ""
+    "genus": null
   },
   {
     "pokemon_species_id": 493,
