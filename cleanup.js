@@ -22,8 +22,9 @@ rawDataFilepaths.forEach(filepath => {
   const data = JSON.parse(fs.readFileSync(filepath, 'utf-8'));
   const filename = filepath.replace(INPUT_DIRECTORY, '');
 
+  const formattedData = formatJSON(data);
   const newPath = `${OUTPUT_DIRECTORY}${filename}`;
-  fs.writeFile(newPath, JSON.stringify(data, null, 2), 'utf8', (err) => {
+  fs.writeFile(newPath, JSON.stringify(formattedData, null, 2), 'utf8', (err) => {
     if (err) {
       return console.log('Unable to write to ', newPath);
     }
@@ -33,8 +34,11 @@ rawDataFilepaths.forEach(filepath => {
 });
 
 function formatJSON(rawData) {
-  let formattedData = {};
-  rawData.forEach((node) => {
-    
+  return rawData.map((node) => {
+    return Object.keys(node).reduce((formattedNode, key) => {
+      const value = node[key];
+      formattedNode[key] = value === '' ? null : value;
+      return formattedNode;
+    }, {});
   })
 }
