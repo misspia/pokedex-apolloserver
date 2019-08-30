@@ -21,10 +21,12 @@ function getEvolutionNodes(chainId) {
     ));
     const {
       evolves_from_species_id: evolvesFromId,
-      minimum_happiness: minimumHappiness,
-      minimum_beauty: minimumBeauty,
       minimum_affection: minimumAffection,
-    } = species;
+      minimum_beauty: minimumBeauty,
+      minimum_happiness: minimumHappiness,
+      minimum_level: minimumLevel,
+      relative_physical_stats: relativePhysicalStats,
+    } = evolution;
 
     chainNodes.push({
       id: species.id,
@@ -32,7 +34,7 @@ function getEvolutionNodes(chainId) {
       evolvesFromId: evolvesFromId === '' ? null : evolvesFromId,
       evolutionTrigger: getEvolutionTrigger(evolution.evolution_trigger_id),
       triggerItem: getItem(evolution.trigger_item_id),
-      minimumLevel: species.minimum_level,
+      minimumLevel: minimumLevel === '' ? null : minimumLevel,
       gender: getGender(evolution.gender_id),
       location: getLocation(evolution.location_id),
       heldItem: getItem(evolution.held_item_id),
@@ -41,9 +43,9 @@ function getEvolutionNodes(chainId) {
       minimumHappiness: minimumHappiness === '' ? null : minimumHappiness,
       minimumBeauty: minimumBeauty === '' ? null : minimumBeauty,
       minimumAffection: minimumAffection === '' ? null : minimumAffection,
-      relativePhysicalStats: species.relative_physical_stats,
-      needsOverworldRain: species.needs_overworld_rain === 1,
-      turnUpsideDown: species.turn_upside_down === 1,
+      relativePhysicalStats: relativePhysicalStats === '' ? null : relativePhysicalStats,
+      needsOverworldRain: evolution.needs_overworld_rain === 1,
+      turnUpsideDown: evolution.turn_upside_down === 1,
 
     })
     return chainNodes;
