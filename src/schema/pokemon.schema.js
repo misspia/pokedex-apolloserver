@@ -4,12 +4,14 @@ const typeDefs = gql`
   type Pokemon {
     id: Int
     name: String
+    chainId: Int
     height: Int
     weight: Int
     baseExperience: Int
     abilities: [String]
     types: [String]
     stats: [PokemonStat]
+    image: String
   }
 
   type PokemonStat {

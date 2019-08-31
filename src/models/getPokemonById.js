@@ -1,4 +1,5 @@
 const basicData = require('../data/pokemon/pokemon.json');
+const pokemonSpeciesData = require('../data/pokemon/species.json');
 const pokemonAbilitiesData = require('../data/pokemon/abilities.json');
 const abilitiesData = require('../data/abilities.json');
 const pokemonTypesData = require('../data/pokemon/types.json');
@@ -6,23 +7,28 @@ const typesData = require('../data/types.json');
 const pokemonStatsData = require('../data/pokemon/stats.json');
 const statsData = require('../data/stats.json');
 
-const model = {
-  getPokemonById: (id) => {
-    const basic = basicData.find(pokemon => pokemon.id === id);
 
-    return {
-      id: id,
-      name: basic.identifier,
-      weight: basic.weight,
-      height: basic.height,
-      baseExperience: basic.base_experience,
-      abilities: getAbiltyNamesById(id),
-      types: getTypeNamesById(id),
-      stats: getPokemonStatsById(id),
-
-    }
+const getPokemonById = (id) => {
+  const basic = basicData.find(pokemon => pokemon.id === id);
+  return {
+    id: id,
+    chainId: getEvolutionChainId(id), 
+    name: basic.identifier,
+    weight: basic.weight,
+    height: basic.height,
+    baseExperience: basic.base_experience,
+    abilities: getAbiltyNamesById(id),
+    types: getTypeNamesById(id),
+    stats: getPokemonStatsById(id),
+    image: '',
   }
-};
+}
+
+function getEvolutionChainId(pkId) {
+  const species = pokemonSpeciesData.find(pokemon => pokemon.id === pkId);
+  return species.evolution_chain_id;
+}
+
 
 function getAbiltyNamesById(id) {
   const abilityIds = pokemonAbilitiesData.filter(ability => (
@@ -60,10 +66,9 @@ function getPokemonStatsById(id) {
     }));
 
   return pokemonStats.map(({ statId, value }) => {
-    const key = statsData.find(stat => stat.id === statId).identifier; 
+    const key = statsData.find(stat => stat.id === statId).identifier;
     return { key: key, value: value };
   })
 }
 
-
-module.exports = model;
+module.exports = getPokemonById;
