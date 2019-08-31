@@ -10,50 +10,79 @@ const getEvolutionByChainId = (chainId) => ({
   chainId,
   chain: getEvolutionNodes(chainId),
 });
-  
+
+
+
 function getEvolutionNodes(chainId) {
   return pokemonSpeciesData.reduce((chainNodes, species) => {
-    if(species.evolution_chain_id !== chainId) {
+    if (species.evolution_chain_id !== chainId) {
       return chainNodes;
     }
-    const evolution = evolutionData.find(evo => (
-      evo.id === species.id
-    ));
-    const {
-      evolves_from_species_id: evolvesFromId,
-      minimum_affection: minimumAffection,
-      minimum_beauty: minimumBeauty,
-      minimum_happiness: minimumHappiness,
-      minimum_level: minimumLevel,
-      relative_physical_stats: relativePhysicalStats,
-    } = evolution;
 
-    chainNodes.push({
-      id: species.id,
-      name: species.identifier,
-      evolvesFromId: evolvesFromId === '' ? null : evolvesFromId,
-      evolutionTrigger: getEvolutionTrigger(evolution.evolution_trigger_id),
-      triggerItem: getItem(evolution.trigger_item_id),
-      minimumLevel: minimumLevel === '' ? null : minimumLevel,
-      gender: getGender(evolution.gender_id),
-      location: getLocation(evolution.location_id),
-      heldItem: getItem(evolution.held_item_id),
-      timeOfDay: evolution.time_of_day,
-      knownMove: getMove(evolution.known_move_id),
-      minimumHappiness: minimumHappiness === '' ? null : minimumHappiness,
-      minimumBeauty: minimumBeauty === '' ? null : minimumBeauty,
-      minimumAffection: minimumAffection === '' ? null : minimumAffection,
-      relativePhysicalStats: relativePhysicalStats === '' ? null : relativePhysicalStats,
-      needsOverworldRain: evolution.needs_overworld_rain === 1,
-      turnUpsideDown: evolution.turn_upside_down === 1,
+    let evolution = null;
 
-    })
+    /**
+     * Is not base form
+     */
+    if (species.evolves_from_species_id) {
+      evolution = evolutionData.find(evo => (
+        evo.evolved_species_id === species.id
+      ));
+    }
+    const node = createEvolutionNode(species, evolution);
+    chainNodes.push(node);
     return chainNodes;
+
   }, []);
 }
 
+function createEvolutionNode(species, evolutionObject) {
+  const defaultEvolutionObject = {
+    id: null,
+    evolved_species_id: null,
+    evolution_trigger_id: null,
+    trigger_item_id: null,
+    minimum_level: null,
+    gender_id: null,
+    location_id: null,
+    held_item_id: null,
+    time_of_day: null,
+    known_move_id: null,
+    known_move_type_id: null,
+    minimum_happiness: null,
+    minimum_beauty: null,
+    minimum_affection: null,
+    relative_physical_stats: null,
+    party_species_id: null,
+    party_type_id: null,
+    trade_species_id: null,
+    needs_overworld_rain: null,
+    turn_upside_down: null,
+  }
+  const evolution = evolutionObject || defaultEvolutionObject;
+  return {
+    id: species.id,
+    name: species.identifier,
+    evolvesFromId: species.evolves_from_species_id,
+    evolutionTrigger: getEvolutionTrigger(evolution.evolution_trigger_id),
+    triggerItem: getItem(evolution.trigger_item_id),
+    minimumLevel: evolution.minimum_level,
+    gender: getGender(evolution.gender_id),
+    location: getLocation(evolution.location_id),
+    heldItem: getItem(evolution.held_item_id),
+    timeOfDay: evolution.time_of_day,
+    knownMove: getMove(evolution.known_move_id),
+    minimumHappiness: evolution.minimum_happiness,
+    minimumBeauty: evolution.minimum_beauty,
+    minimumAffection: evolution.minimum_affection,
+    relativePhysicalStats: evolution.relative_physical_stats,
+    needsOverworldRain: evolution.needs_overworld_rain === 1,
+    turnUpsideDown: evolution.turn_upside_down === 1,
+  }
+}
+
 function getEvolutionTrigger(triggerId) {
-  if(triggerId === '') return null;
+  if (!triggerId) return null;
 
   return evolutionTriggersData.find(trigger => (
     trigger.id === triggerId
@@ -61,7 +90,7 @@ function getEvolutionTrigger(triggerId) {
 }
 
 function getItem(itemId) {
-  if(itemId === '') return null;
+  if (!itemId) return null;
 
   return itemsData.find(item => (
     item.id === itemId
@@ -69,7 +98,7 @@ function getItem(itemId) {
 }
 
 function getGender(genderId) {
-  if(!genderId) return null;
+  if (!genderId) return null;
 
   return gendersData.find(gender => (
     gender.id === genderId
@@ -77,7 +106,7 @@ function getGender(genderId) {
 }
 
 function getLocation(locationId) {
-  if(locationId === '') return null;
+  if (!locationId) return null;
 
   return locationsData.find(location => (
     location.id === locationId
@@ -85,7 +114,11 @@ function getLocation(locationId) {
 }
 
 function getMove(moveId) {
-  return 
+  if(!moveId) return null;
+
+  return movesData.find(move => (
+    move.id === moveId
+  )).identifier;
 }
 
 
