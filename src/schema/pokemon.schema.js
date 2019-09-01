@@ -17,7 +17,7 @@ const typeDefs = gql`
     abilities: [String]
     types: [String]
     stats: [PokemonStat]
-    image: String
+    artworkUrl: String
   }
 
   type PokemonStat {

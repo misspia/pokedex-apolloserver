@@ -1,3 +1,4 @@
+const getAssets = require('./getAssets.js');
 const basicData = require('../data/pokemon/pokemon.json');
 const pokemonSpeciesData = require('../data/pokemon/species.json');
 const pokemonAbilitiesData = require('../data/pokemon/abilities.json');
@@ -11,7 +12,7 @@ const statsData = require('../data/stats.json');
 const getPokemonById = (id) => {
   const basic = basicData.find(pokemon => pokemon.id === id);
   return {
-    id: id,
+    id,
     chainId: getEvolutionChainId(id), 
     name: basic.identifier,
     weight: basic.weight,
@@ -20,7 +21,7 @@ const getPokemonById = (id) => {
     abilities: getAbiltyNamesById(id),
     types: getTypeNamesById(id),
     stats: getPokemonStatsById(id),
-    image: '',
+    artworkUrl: getAssets.artwork(id),
   }
 }
 
