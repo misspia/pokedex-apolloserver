@@ -1,6 +1,12 @@
 const { gql } = require('apollo-server');
 
 const typeDefs = gql`
+  type PokemonListNode {
+    id: Int
+    name: String
+    spriteUrl: String
+  }
+
   type Pokemon {
     id: Int
     name: String
