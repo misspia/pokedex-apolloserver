@@ -7,7 +7,7 @@ const models = require('../models');
   Query: {
     hello: (root, args, context) => 'hiiii',
     GetAllPokemon: (root, args, context) => (
-      models.GetAllPokemon()
+      models.getAllPokemon()
     ),
     GetPokemonById: (root, args, context) => (
       models.getPokemonById(args.id)
