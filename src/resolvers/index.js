@@ -6,12 +6,15 @@ const models = require('../models');
  const resolvers = {
   Query: {
     hello: (root, args, context) => 'hiiii',
-    GetPokemonById: (root, args, context) => {
-      return models.getPokemonById(args.id);
-    },
-    GetEvolutionByChainId: (root, args, context) => {
-      return models.getEvolutionByChainId(args.chainId);
-    }
+    GetAllPokemon: (root, args, context) => (
+      models.GetAllPokemon()
+    ),
+    GetPokemonById: (root, args, context) => (
+      models.getPokemonById(args.id)
+    ),
+    GetEvolutionByChainId: (root, args, context) => (
+      models.getEvolutionByChainId(args.chainId)
+    ),
   }
 }
 

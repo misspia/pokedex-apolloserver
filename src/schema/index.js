@@ -5,6 +5,7 @@ const EvolutionTypeDefs = require('./evolution.schema.js');
 const Query = gql`
   type Query {
     hello: String
+    GetAllPokemon(): [PokemonListNode]
     GetPokemonById(id: Int): Pokemon
     GetEvolutionByChainId(chainId: Int): Evolution
   } 
