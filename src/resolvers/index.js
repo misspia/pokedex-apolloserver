@@ -6,6 +6,7 @@ const {
   MIN_POKEMON_ID,
   MAX_POKEMON_ID,
 } = require('../constants');
+const scalars = require('./scalarProcessors');
 
 /**
  * A map of functions which return data for the schema
@@ -25,16 +26,19 @@ const resolvers = {
   },
 
 
+  /**
+   * Custom Scalars
+   */
   PokemonId: new GraphQLScalarType({
     name: 'PokemonId',
     description: `Valid Pokemon IDs are integers in the range [${MIN_POKEMON_ID}, ${MAX_POKEMON_ID}]`,
-    serialize(value) {
-      return processPokemonIdValue(value);
-    },
-    parseValue(value) {
-      return processPokemonIdValue(value);
-    },
-    parseLiteral(ast) {
+    serialize:(value) => (
+      scalars.processPokemonIdValue(value)
+    ),
+    parseValue: (value) => (
+      scalars.processPokemonIdValue(value)
+    ),
+    parseLiteral: (ast) => {
       if (ast.kind !== Kind.INT) {
         throw new GraphQLError(
           `Van only validate integers as Pokemon IDs but got a(n) ${ast.kind}`
@@ -45,16 +49,6 @@ const resolvers = {
   })
 }
 
-function processPokemonIdValue(value) {
-  const parsedValue = parseInt(value, 10);
 
-  if (value < MIN_POKEMON_ID || value > MAX_POKEMON_ID) {
-    throw new TypeError(
-      `${value} is not a valid Pokemon ID. A valid Pokemon ID is 
-        an integer in the range [${MIN_POKEMON_ID}, ${MAX_POKEMON_ID}]`
-    );
-  }
-  return parsedValue;
-}
 
 module.exports = resolvers;

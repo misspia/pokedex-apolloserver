@@ -1,16 +1,5 @@
 const { gql } = require('apollo-server');
 
-/**
- * https://github.com/Urigo/graphql-scalars/blob/f73f98b7ccf0fb774b26824ab3807468f01946c0/src/resolvers/utilities.ts#L105-L110
- * https://github.com/Urigo/graphql-scalars/blob/master/src/resolvers/NegativeInt.ts
- * https://www.apollographql.com/docs/apollo-server/features/scalars-enums/
- */
-
-
-/**
- * https://github.com/Urigo/graphql-scalars
- */
-
 const typeDefs = gql`
   scalar PokemonId
 
