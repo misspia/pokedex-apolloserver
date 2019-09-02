@@ -1,10 +1,10 @@
 const pokemonData = require('../data/pokemon/pokemon.json');
-const getAssets = require('./getAssets.js');
+const getAssets = require('./getAssets');
+const { MAX_POKEMON_ID } = require('../constants');
 
 const getAllPokemon = () => {
   return pokemonData.reduce((list, pokemon) => {
-    const maxPokemonId = 720;
-    if(pokemon.id > maxPokemonId) return list;
+    if(pokemon.id > MAX_POKEMON_ID) return list;
 
     const node = {
       id: pokemon.id,
