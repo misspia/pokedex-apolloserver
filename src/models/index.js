@@ -1,7 +1,7 @@
 
-const getAllPokemon = require('./getAllPokemon.js');
-const getPokemonById = require('./getPokemonById.js');
-const getEvolutionByChainId = require('./getEvolutionByChainId.js');
+const getAllPokemon = require('./getAllPokemon');
+const getPokemonById = require('./getPokemonById');
+const getEvolutionByChainId = require('./getEvolutionByChainId');
 
 module.exports = {
   getAllPokemon,

@@ -1,3 +1,4 @@
 module.exports = {
- MAX_POKEMON_ID: 720
+  MIN_POKEMON_ID: 1,
+  MAX_POKEMON_ID: 721
 };
