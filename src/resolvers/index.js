@@ -32,7 +32,7 @@ const resolvers = {
   PokemonId: new GraphQLScalarType({
     name: 'PokemonId',
     description: `Valid Pokemon IDs are integers in the range [${MIN_POKEMON_ID}, ${MAX_POKEMON_ID}]`,
-    serialize:(value) => (
+    serialize: (value) => (
       scalars.processPokemonIdValue(value)
     ),
     parseValue: (value) => (
@@ -41,7 +41,25 @@ const resolvers = {
     parseLiteral: (ast) => {
       if (ast.kind !== Kind.INT) {
         throw new GraphQLError(
-          `Van only validate integers as Pokemon IDs but got a(n) ${ast.kind}`
+          `Can only validate integers as Pokemon IDs but got a(n) ${ast.kind}`
+        )
+      }
+      return parseInt(ast.value, 10);
+    },
+  }),
+  PositiveInt: new GraphQLScalarType({
+    name: 'PositiveInt',
+    description: 'An integer with a value greater than 0',
+    serialize: (value) => (
+      scalars.processPositiveIntValue(value)
+    ),
+    parseValue: (value) => (
+      scalars.processPositiveIntValue(value)
+    ),
+    parseLiteral: (ast) => {
+      if (ast.kind !== Kind.INT) {
+        throw new GraphQLError(
+          `Can only validate integers as Positive Integers but got a(n) ${ast.kind}`
         )
       }
       return parseInt(ast.value, 10);

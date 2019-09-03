@@ -1,8 +1,6 @@
 const { gql } = require('apollo-server');
 
 const typeDefs = gql`
-  scalar PokemonId
-
   type PokemonListNode {
     id: Int
     name: String
@@ -12,7 +10,7 @@ const typeDefs = gql`
   type Pokemon {
     id: PokemonId
     name: String
-    chainId: Int
+    chainId: PositiveInt
     height: Int
     weight: Int
     baseExperience: Int
@@ -25,28 +23,6 @@ const typeDefs = gql`
   type PokemonStat {
     key: String
     value: Int
-  }
-
-  enum Type {
-    normal
-    fighting
-    flying
-    poison
-    ground
-    rock
-    bug
-    ghost
-    steel
-    fire
-    water
-    grass
-    electric
-    psychic
-    ice
-    dragon
-    fairy
-    unkown
-    shadow
   }
 `;
 
