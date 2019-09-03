@@ -1,8 +1,6 @@
 const { gql } = require('apollo-server');
 
 const typeDefs = gql`
-  scalar PokemonId
-
   type PokemonListNode {
     id: Int
     name: String
@@ -12,12 +10,12 @@ const typeDefs = gql`
   type Pokemon {
     id: PokemonId
     name: String
-    chainId: Int
+    chainId: PositiveInt
     height: Int
     weight: Int
     baseExperience: Int
     abilities: [String]
-    types: [String]
+    types: [Type]
     stats: [PokemonStat]
     artworkUrl: String
   }

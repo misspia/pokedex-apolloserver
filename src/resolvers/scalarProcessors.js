@@ -14,6 +14,16 @@ const scalars = {
       );
     }
     return parsedValue;
+  },
+  processPositiveIntValue: (value) => {
+    const parsedValue = parseInt(value, 10);
+
+    if (!(parsedValue < 0)) {
+      throw new TypeError(
+        `${value} is not a positive integer`
+      );
+    }
+    return parsedValue;
   }
 }
 

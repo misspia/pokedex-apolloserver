@@ -1,4 +1,6 @@
 const { gql } = require('apollo-server-micro');
+const ScalarTypeDefs = require('./scalars.schema');
+const EnumTypeDefs = require('./enums.schema');
 const PokemonTypeDefs = require('./pokemon.schema');
 const EvolutionTypeDefs = require('./evolution.schema');
 
@@ -7,12 +9,14 @@ const Query = gql`
     hello: String
     GetAllPokemon: [PokemonListNode]
     GetPokemonById(id: PokemonId): Pokemon
-    GetEvolutionByChainId(chainId: Int): Evolution
+    GetEvolutionByChainId(chainId: PositiveInt): Evolution
   } 
 `;
 
 module.exports = [
   Query,
+  ScalarTypeDefs,
+  EnumTypeDefs,
   PokemonTypeDefs,
   EvolutionTypeDefs,
 ];
