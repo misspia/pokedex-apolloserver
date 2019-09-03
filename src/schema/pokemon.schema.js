@@ -17,7 +17,7 @@ const typeDefs = gql`
     weight: Int
     baseExperience: Int
     abilities: [String]
-    types: [String]
+    types: [Type]
     stats: [PokemonStat]
     artworkUrl: String
   }
@@ -25,6 +25,28 @@ const typeDefs = gql`
   type PokemonStat {
     key: String
     value: Int
+  }
+
+  enum Type {
+    normal
+    fighting
+    flying
+    poison
+    ground
+    rock
+    bug
+    ghost
+    steel
+    fire
+    water
+    grass
+    electric
+    psychic
+    ice
+    dragon
+    fairy
+    unkown
+    shadow
   }
 `;
 
