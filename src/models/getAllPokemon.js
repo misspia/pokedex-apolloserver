@@ -9,7 +9,7 @@ const getAllPokemon = () => {
     const node = {
       id: pokemon.id,
       name: pokemon.identifier,
-      spriteUrl: getAssets.sprite(pokemon.id),
+      spriteUrl: getAssets.artwork(pokemon.id),
     }
     list.push(node);
     return list;
