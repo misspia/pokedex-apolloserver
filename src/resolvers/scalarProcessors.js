@@ -18,7 +18,7 @@ const scalars = {
   processPositiveIntValue: (value) => {
     const parsedValue = parseInt(value, 10);
 
-    if (!(parsedValue < 0)) {
+    if (parsedValue < 0) {
       throw new TypeError(
         `${value} is not a positive integer`
       );
