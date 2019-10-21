@@ -15,7 +15,7 @@ const resolvers = {
   Query: {
     hello: (root, args, context) => 'hiiii',
     GetAllPokemon: (root, args, context) => (
-      models.getAllPokemon()
+      models.getAllPokemon(args.start, args.end)
     ),
     GetPokemonById: (root, args, context) => (
       models.getPokemonById(args.id)
