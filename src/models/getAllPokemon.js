@@ -5,9 +5,7 @@ const { MAX_POKEMON_ID, MIN_POKEMON_ID } = require('../constants');
 const getAllPokemon = (start, end) => {
   const startId = getStartId(start);
   const endId = getEndId(end);
-  console.log(startId, endId)
   return pokemonData.reduce((list, pokemon) => {
-    // if(pokemon.id > MAX_POKEMON_ID) return list;
     if(pokemon.id < startId || pokemon.id > endId) {
       return list;
     }
@@ -29,8 +27,6 @@ function getStartId(start) {
 }
 
 function getEndId(end) {
-  console.log('[get end id]', end)
-
   if(!end) return MAX_POKEMON_ID;
   if(end > MAX_POKEMON_ID) return MAX_POKEMON_ID;
   return end;
