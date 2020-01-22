@@ -1,3 +1,6 @@
+const getAssets = require('./getAssets.js');
+const getTypeNamesById = require('./getTypeNamesById');
+
 const pokemonSpeciesData = require('../data/pokemon/species.json');
 const evolutionData = require('../data/evolution.json');
 const evolutionTriggersData = require('../data/evolutionTriggers.json');
@@ -10,8 +13,6 @@ const getEvolutionByChainId = (chainId) => ({
   chainId,
   chain: getEvolutionNodes(chainId),
 });
-
-
 
 function getEvolutionNodes(chainId) {
   return pokemonSpeciesData.reduce((chainNodes, species) => {
@@ -36,33 +37,36 @@ function getEvolutionNodes(chainId) {
   }, []);
 }
 
+const defaultEvolutionObject = {
+  id: null,
+  evolved_species_id: null,
+  evolution_trigger_id: null,
+  trigger_item_id: null,
+  minimum_level: null,
+  gender_id: null,
+  location_id: null,
+  held_item_id: null,
+  time_of_day: null,
+  known_move_id: null,
+  known_move_type_id: null,
+  minimum_happiness: null,
+  minimum_beauty: null,
+  minimum_affection: null,
+  relative_physical_stats: null,
+  party_species_id: null,
+  party_type_id: null,
+  trade_species_id: null,
+  needs_overworld_rain: null,
+  turn_upside_down: null,
+}
+
 function createEvolutionNode(species, evolutionObject) {
-  const defaultEvolutionObject = {
-    id: null,
-    evolved_species_id: null,
-    evolution_trigger_id: null,
-    trigger_item_id: null,
-    minimum_level: null,
-    gender_id: null,
-    location_id: null,
-    held_item_id: null,
-    time_of_day: null,
-    known_move_id: null,
-    known_move_type_id: null,
-    minimum_happiness: null,
-    minimum_beauty: null,
-    minimum_affection: null,
-    relative_physical_stats: null,
-    party_species_id: null,
-    party_type_id: null,
-    trade_species_id: null,
-    needs_overworld_rain: null,
-    turn_upside_down: null,
-  }
   const evolution = evolutionObject || defaultEvolutionObject;
   return {
     id: species.id,
     name: species.identifier,
+    artworkUrl: getAssets.artwork(species.id),
+    types: getTypeNamesById(species.id),
     evolvesFromId: species.evolves_from_species_id,
     evolutionTrigger: getEvolutionTrigger(evolution.evolution_trigger_id),
     triggerItem: getItem(evolution.trigger_item_id),
@@ -114,7 +118,7 @@ function getLocation(locationId) {
 }
 
 function getMove(moveId) {
-  if(!moveId) return null;
+  if (!moveId) return null;
 
   return movesData.find(move => (
     move.id === moveId

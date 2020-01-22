@@ -9,6 +9,8 @@ const typeDefs = gql`
   type EvolutionNode {
     id: Int
     name: String
+    types: [Type]
+    artworkUrl: String
     evolvesFromId: Int
     evolutionTrigger: String
     triggerItem: String
