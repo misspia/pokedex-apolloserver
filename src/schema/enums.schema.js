@@ -20,7 +20,7 @@ const typeDefs = gql`
     dragon
     fairy
     unkown
-    shadow
+    dark
   }
 `;
 
