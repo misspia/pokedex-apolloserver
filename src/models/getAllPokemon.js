@@ -1,12 +1,13 @@
 const pokemonData = require('../data/pokemon/pokemon.json');
 const getAssets = require('./getAssets');
+const getTypeNamesById = require('./getTypeNamesById');
 const { MAX_POKEMON_ID, MIN_POKEMON_ID } = require('../constants');
 
 const getAllPokemon = (start, end) => {
   const startId = getStartId(start);
   const endId = getEndId(end);
   return pokemonData.reduce((list, pokemon) => {
-    if(pokemon.id < startId || pokemon.id > endId) {
+    if (pokemon.id < startId || pokemon.id > endId) {
       return list;
     }
 
@@ -14,6 +15,7 @@ const getAllPokemon = (start, end) => {
       id: pokemon.id,
       name: pokemon.identifier,
       spriteUrl: getAssets.artwork(pokemon.id),
+      types: getTypeNamesById(pokemon.id),
     }
     list.push(node);
     return list;
@@ -21,14 +23,14 @@ const getAllPokemon = (start, end) => {
 }
 
 function getStartId(start) {
-  if(!start) return MIN_POKEMON_ID;
-  if(start < MIN_POKEMON_ID ) return MIN_POKEMON_ID;
+  if (!start) return MIN_POKEMON_ID;
+  if (start < MIN_POKEMON_ID) return MIN_POKEMON_ID;
   return start;
 }
 
 function getEndId(end) {
-  if(!end) return MAX_POKEMON_ID;
-  if(end > MAX_POKEMON_ID) return MAX_POKEMON_ID;
+  if (!end) return MAX_POKEMON_ID;
+  if (end > MAX_POKEMON_ID) return MAX_POKEMON_ID;
   return end;
 
 }

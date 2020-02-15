@@ -13,7 +13,7 @@ const scalars = require('./scalarProcessors');
  */
 const resolvers = {
   Query: {
-    hello: (root, args, context) => 'hiiii',
+    hello: (root, args, context) => 'supsup',
     GetAllPokemon: (root, args, context) => (
       models.getAllPokemon(args.start, args.end)
     ),

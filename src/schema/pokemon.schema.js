@@ -5,6 +5,7 @@ const typeDefs = gql`
     id: Int
     name: String
     spriteUrl: String
+    types: [Type]
   }
 
   type Pokemon {
